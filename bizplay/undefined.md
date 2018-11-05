@@ -4,11 +4,13 @@ description: '회사에서 관리하는 법인카드 정보와 사용자 정보�
 
 # 법인카드관리
 
-## About
+##  
+
+![](../.gitbook/assets/pexels-photo-1374544.jpg)
 
 {% tabs %}
 {% tab title="카드 관리" %}
-
+법인카드관리 앱에서 카드를 조회하고, 카드 ㅏ용
 {% endtab %}
 
 {% tab title="카드 사용자 현황" %}
@@ -16,15 +18,15 @@ description: '회사에서 관리하는 법인카드 정보와 사용자 정보�
 {% endtab %}
 
 {% tab title="입력항목 설정" %}
-
+용도, 내용, 신청금액, 날짜/시간, 관리\(예산\)부서, 거래처, 직원/부서를 설정하여 관리할 수 있습니다.
 {% endtab %}
 
 {% tab title="기타 환경설정" %}
 
 {% endtab %}
 
-{% tab title="관리자권한관리" %}
-
+{% tab title="관리자 권한 관리" %}
+법인카드관리 앱에서 카드사용자 지정 등 카드를 관리할 관리자를 지정합니다.
 {% endtab %}
 
 {% tab title="공인전자문서보관 서비스" %}
@@ -47,8 +49,17 @@ $ give me super-powers
 Once you're strong enough, save the world:
 
 ```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+카드 조회
+카드관리 메뉴에서 카드목록 확인
+카드 사용자 추가
+a. 카드번호 클릭
+b. 사용자 항목의 추가 버튼 클릭
+권한을 부여할 카드 추가
+a. 만든 그룹에 사업장 혹은 카드를 선택 후 -> 버튼을 클릭 후 저장 버튼 클릭
+* <- : 선택한 사업장/카드 해제
+권한을 부여할 관리자 추가
+a. 만든 그룹에 관리자로 지정할 직원을 선택 후 -> 버튼을 클릭 후 저장버튼 클릭
+* <- : 선택한 관리자 해제
 ```
 
 
