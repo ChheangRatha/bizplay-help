@@ -2,6 +2,7 @@
 
 * [경비지출관리 서비스란?](README.md)
 * [회원가입하기](undefined-1.md)
+* [비즈플레이 바로가기](undefined.md)
 
 ## Product
 
@@ -19,6 +20,7 @@
 * [관리자](faq/undefined.md)
 * [사용자](faq/undefined-2.md)
 * [기타 / 이용문의](faq/undefined-1.md)
+* [온라인 고객센터](faq/undefined-3.md)
 
 ## Version History
 
