@@ -6,8 +6,6 @@ description: '회사에서 관리하는 법인카드 정보와 사용자 정보�
 
 
 
-{% page-ref page="../undefined.md" %}
-
 ![](../.gitbook/assets/pexels-photo-1374544.jpg)
 
 ##  

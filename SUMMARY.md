@@ -1,8 +1,6 @@
 # Table of contents
 
-* [경비지출관리 서비스란?](README.md)
-* [회원가입하기](undefined-1.md)
-* [비즈플레이 바로가기](undefined.md)
+* [intro](README.md)
 
 ## Product
 
