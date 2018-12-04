@@ -2,7 +2,7 @@
 
 * [intro](README.md)
 
-## Product
+## 주제 별 tip
 
 * [법인카드관리](bizplay/undefined.md)
 * [개인카드관리](bizplay/undefined-1.md)
