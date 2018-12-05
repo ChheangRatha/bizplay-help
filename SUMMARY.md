@@ -2,8 +2,9 @@
 
 * [지식창고가 무엇인가요?](README.md)
 
-## 상황 별 이용 tip
+## 주제 별 이용 tip
 
+* [비즈플레이 상품 정책](bizplay/undefined.md)
 * [카드사 EDI 신청하기](bizplay/edi.md)
 * [환경설정APP 이용하기](bizplay/app.md)
 
