@@ -1,16 +1,14 @@
 # 법인카드
 
-## Can I become who I want to be?
+## 법인카드 유형 별 표기 방식
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+법인카드의 유형은 총 3가지로 나뉘어 있으며, 비즈플레이에서는 **구분**과 **회원명** 표기를 확인하여 구별 이 가능합니다.
 
-## Have you had a chance to answer the previous question?
+| 유형 | 구분표기 | 회원명 | 상환의무 |
+| :--- | :--- | :--- | :--- |
+| 기업 법인카드\(공용\) | 사용자지정\(개인명의\) | 회사명 | 기업 |
+| 기업 법인카드\(기명식\) | 사용자지정\(개인명의\) | 임직원명 | 기업 |
+| 개인형 법인카드 | 개인계좌지정 | 임직원명 | 개인1차, 기업2차 |
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
-
-## EDI를 신청하였습니다. 카드 데이터는 언제쯤 받아볼 수 있나요?
-
-네, 보통 EDI를 신청한 후 영업일 기준 5일 이내에 카드 데이터가 수신됩니다. 카드사에서 직접 제공한 카드정보에 대해서 유효기간이 있는 카드에 대해서 자동으로 등록되어 간편합니다.
-
-
+![&#xBC95;&#xC778;&#xCE74;&#xB4DC;&#xAD00;&#xB9AC;APP &amp;gt; &#xCE74;&#xB4DC;&#xAD00;&#xB9AC; &amp;gt; &#xCE74;&#xB4DC;&#xC0C1;&#xC138;](../.gitbook/assets/undefined.png)
 
