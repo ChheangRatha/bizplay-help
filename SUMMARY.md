@@ -15,6 +15,7 @@
 * [개인카드](faq/undefined-2.md)
 * [지출결의](faq/undefined-4.md)
 * [전자결재](faq/undefined-5.md)
+* [모바일](faq/undefined-7.md)
 * [법률, 보안, 데이터 정책 등](faq/undefined-3.md)
 * [기타](faq/undefined-1.md)
 
