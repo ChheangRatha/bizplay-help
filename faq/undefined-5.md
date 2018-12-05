@@ -1,2 +1,21 @@
 # 전자결재
 
+## 결재요청의 방식
+
+결재방법은 “결재, 합의, 참조, 접수, 감사”가 있는데 “참조”를 제외하고는 모두 “결재”와 방식이 동일하며 업무에 필요한 명칭상의 차이점만 있습니다.
+
+![](../.gitbook/assets/undefined.png)
+
+{% hint style="info" %}
+참조의 경우 참조자가 기안문서를 볼 수 있는 시점은 환경설정으로 설정할 수 있습니다.
+
+1. 전자결재APP &gt; 관리자 &gt; 환경설정 &gt; 기타이용설정
+2. '참조자 결재문서 공유 설정'
+{% endhint %}
+
+## Have you had a chance to answer the previous question?
+
+Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+
+
+
