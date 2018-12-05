@@ -6,11 +6,12 @@
 
 * [상품 별 이용 APP](bizplay/undefined.md)
 * [카드사 EDI 신청하기](bizplay/edi.md)
-* [환경설정APP 이용하기](bizplay/app.md)
+* [입력항목 설정하기](bizplay/undefined-1.md)
 
 ## tip
 
 * [계정, 회원가입](faq/undefined-6.md)
+* [환경설정](faq/app.md)
 * [법인카드](faq/undefined.md)
 * [개인카드](faq/undefined-2.md)
 * [지출결의](faq/undefined-4.md)
