@@ -10,14 +10,14 @@
 
 ## tip
 
-* [계정, 회원가입](faq/undefined-6.md)
-* [환경설정](faq/app.md)
-* [법인카드](faq/undefined.md)
-* [개인카드](faq/undefined-2.md)
-* [지출결의](faq/undefined-5.md)
-* [경비지급](faq/undefined-4.md)
-* [법률, 보안, 데이터 정책](faq/undefined-3.md)
-* [기타](faq/undefined-1.md)
+* [계정, 회원가입](tip/account.md)
+* [환경설정](tip/setting.md)
+* [법인카드](tip/corpcard.md)
+* [개인카드](tip/privatecard.md)
+* [지출결의](tip/report.md)
+* [경비지급](tip/transfer.md)
+* [법률, 보안, 데이터 정책](tip/law.md)
+* [기타](tip/etc.md)
 
 ## 제휴
 
