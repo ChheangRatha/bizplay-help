@@ -6,7 +6,7 @@
 
 * [서비스 Matrix](bizplay/service-matrix.md)
 * [카드사 EDI 신청하기](bizplay/edi.md)
-* [입력항목 설정하기](bizplay/setting.md)
+* [입력항목 설정하기](bizplay/setting-case.md)
 
 ## tip
 
