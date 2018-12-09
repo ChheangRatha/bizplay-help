@@ -16,6 +16,7 @@
 * [개인카드](tip/privatecard.md)
 * [지출결의](tip/report.md)
 * [경비지급](tip/transfer.md)
+* [출장관리](tip/undefined.md)
 * [법률, 보안, 데이터 정책](tip/law.md)
 * [기타](tip/etc.md)
 
