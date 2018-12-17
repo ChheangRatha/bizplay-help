@@ -21,8 +21,9 @@
 * [법률, 보안, 데이터 정책](tip/law.md)
 * [기타](tip/etc.md)
 
-## 제휴
+## 기타
 
-* [카드사](undefined/undefined.md)
-* [ERP](undefined/erp.md)
+* [카드사 제휴](undefined/undefined.md)
+* [ERP연계](undefined/erp.md)
+* [용어집](undefined/undefined-1.md)
 
