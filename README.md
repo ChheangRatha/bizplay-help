@@ -12,7 +12,7 @@ description: '비즈플레이 컨설턴트 및 직원들에게 경비지출관�
 
 지식창고 사이트에서는 키워드로 검색하여 보거나, 모바일로도 간편하게 볼 수 있습니다.
 
-![&#xAC80;&#xC0C9;&#xD558;&#xAE30;](.gitbook/assets/0f0cjhg2nh.gif)
+![&#xD0A4;&#xC6CC;&#xB4DC;&#xB85C; &#xAC80;&#xC0C9;&#xC774; &#xAC00;&#xB2A5;&#xD569;&#xB2C8;&#xB2E4;.](.gitbook/assets/0f0cjhg2nh.gif)
 
-![&#xBAA8;&#xBC14;&#xC77C;&#xC5D0;&#xC11C; &#xBCF4;&#xAE30;](.gitbook/assets/hp4ogv06lm.gif)
+![&#xBAA8;&#xBC14;&#xC77C;&#xC5D0;&#xC11C;&#xB3C4; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;. \( bizplay.gitbook.io/help\)](.gitbook/assets/hp4ogv06lm.gif)
 
