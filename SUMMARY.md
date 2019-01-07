@@ -16,6 +16,7 @@
 * [지출결의](tip/report.md)
 * [경비지급](tip/transfer.md)
 * [출장관리](tip/undefined.md)
+* [세금계산서\(인택스\)](tip/undefined-2.md)
 * [모바일](tip/undefined-1.md)
 * [법률, 보안, 데이터 정책](tip/law.md)
 * [기타](tip/etc.md)
