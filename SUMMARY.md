@@ -3,10 +3,17 @@
 * [지식창고가 무엇인가요?](README.md)
 * [시작하기](start/README.md)
   * [카드사EDI 신청하기](start/edi-1.md)
-  * [환경설정](start/undefined.md)
+  * [입력항목설정](start/undefined.md)
+  * [지출결의 설정](start/undefined-1.md)
+  * [기타환경설정](start/undefined-2.md)
+  * [예산설정](start/undefined-3.md)
 * [서비스 정책](undefined-1/README.md)
   * [서비스 Matrix](undefined-1/service-matrix.md)
-  * [가격정책](undefined-1/undefined.md)
+  * [가격정책](undefined-1/undefined/README.md)
+    * [bizplay](undefined-1/undefined/bizplay.md)
+    * [bizplay Premium](undefined-1/undefined/bizplay-premium.md)
+    * [bizplay Public](undefined-1/undefined/bizplay-public.md)
+    * [bizplay Enterprise](undefined-1/undefined/bizplay-enterprise.md)
 
 ## tip
 
