@@ -1,6 +1,9 @@
 # Table of contents
 
 * [지식창고가 무엇인가요?](README.md)
+* [시작하기](start/README.md)
+  * [카드사EDI 신청하기](start/edi-1.md)
+  * [환경설정](start/undefined.md)
 
 ## 정책
 
@@ -10,6 +13,7 @@
 ## 시작하기
 
 * [카드사 EDI 신청하기](bizplay/edi.md)
+* [환경설정](bizplay/undefined.md)
 
 ## tip
 
