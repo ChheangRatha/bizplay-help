@@ -2,9 +2,13 @@
 
 * [지식창고가 무엇인가요?](README.md)
 
-## 주제 별 이용 tip
+## 정책
 
-* [서비스 Matrix](bizplay/service-matrix.md)
+* [서비스 Matrix](rule/service-matrix.md)
+* [가격정책](rule/undefined.md)
+
+## 시작하기
+
 * [카드사 EDI 신청하기](bizplay/edi.md)
 
 ## tip
