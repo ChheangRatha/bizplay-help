@@ -25,7 +25,7 @@
   * [지출결의](faq/report.md)
   * [경비지급](faq/transfer.md)
   * [출장관리](faq/undefined-2.md)
-  * [세금계산서\(인택스\)](faq/undefined-2-1.md)
+  * [세금계산서](faq/undefined-2-1.md)
   * [모바일](faq/mobile.md)
   * [법률, 보안, 데이터 정책](faq/law.md)
   * [기타](faq/etc.md)
