@@ -14,7 +14,7 @@
   * [지출결의 설정\(ing\)](start/undefined-1.md)
   * [기타환경설정\(ing\)](start/undefined-2.md)
   * [예산설정\(ing\)](start/undefined-3.md)
-* [사용자](untitled/README.md)
+* [사용자\(ing\)](untitled/README.md)
   * [영수증 작성하기\(ing\)](untitled/untitled.md)
   * [결의서 작성하기\(ing\)](untitled/undefined-1.md)
 * [FAQ](faq/README.md)
