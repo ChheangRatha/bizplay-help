@@ -19,7 +19,7 @@
   * [경비지급](faq/transfer.md)
   * [출장관리](faq/undefined-2.md)
   * [세금계산서](faq/undefined-2-1.md)
-  * [예산관리](faq/undefined.md)
+  * [예산관리](faq/budget.md)
   * [모바일](faq/mobile.md)
   * [법률, 보안, 데이터 정책](faq/law.md)
   * [기타](faq/etc.md)
