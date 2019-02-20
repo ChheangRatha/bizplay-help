@@ -67,7 +67,7 @@ $$
 4. "사용자"입력항목을 사용할 용도의 세부설정 버튼을 클릭합니다.
 5. ON 스위치 버튼과, 필수유무를 체크합니다.  
 
-![&#xC6A9;&#xB3C4; &#xBCC4; &#xC0AC;&#xC6A9;&#xC790; &#xC785;&#xB825;&#xD56D;&#xBAA9; &#xC0AC;&#xC6A9; &#xC608;&#xC2DC;](../.gitbook/assets/undefined%20%2810%29.png)
+![&#xC6A9;&#xB3C4; &#xBCC4; &#xC0AC;&#xC6A9;&#xC790; &#xC785;&#xB825;&#xD56D;&#xBAA9; &#xC0AC;&#xC6A9; &#xC608;&#xC2DC;](../.gitbook/assets/undefined%20%2811%29.png)
 
 ![&#xC0AC;&#xC6A9;&#xC790; &#xC785;&#xB825;&#xD56D;&#xBAA9;&#xC740; &#xCE74;&#xB4DC;&#xC0AC;&#xC6A9;&#xC790;&#xAC00; &#xCD08;&#xAE30; &#xC138;&#xD305;&#xB429;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined.gif)
 

@@ -6,7 +6,7 @@ description: 대기업(계열사포함) 및 대형 공공기관을 위한 맞춤
 
 
 
-![](../../.gitbook/assets/undefined%20%287%29.png)
+![](../../.gitbook/assets/undefined%20%288%29.png)
 
 ![](../../.gitbook/assets/2.png)
 

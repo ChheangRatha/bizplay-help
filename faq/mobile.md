@@ -12,5 +12,5 @@ description: '비플법인카드, 비플개인카드, 결재함'
 2. 경비결의서를 열기
 3. 첨부파일 열기
 
-![](../.gitbook/assets/undefined%20%288%29.png)
+![](../.gitbook/assets/undefined%20%289%29.png)
 
