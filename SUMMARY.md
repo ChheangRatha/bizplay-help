@@ -15,7 +15,7 @@
   * [환경설정](faq/setting.md)
   * [법인카드](faq/corpcard.md)
   * [개인카드](faq/privatecard.md)
-  * [기타\(간이\)](faq/undefined.md)
+  * [기타 영수증](faq/etc-1.md)
   * [지출결의](faq/report.md)
   * [경비지급](faq/transfer.md)
   * [출장관리](faq/undefined-2.md)
