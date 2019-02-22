@@ -69,7 +69,7 @@ $$
 
 ![&#xC6A9;&#xB3C4; &#xBCC4; &#xC0AC;&#xC6A9;&#xC790; &#xC785;&#xB825;&#xD56D;&#xBAA9; &#xC0AC;&#xC6A9; &#xC608;&#xC2DC;](../.gitbook/assets/undefined%20%2811%29.png)
 
-![&#xC0AC;&#xC6A9;&#xC790; &#xC785;&#xB825;&#xD56D;&#xBAA9;&#xC740; &#xCE74;&#xB4DC;&#xC0AC;&#xC6A9;&#xC790;&#xAC00; &#xCD08;&#xAE30; &#xC138;&#xD305;&#xB429;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined.gif)
+![&#xC0AC;&#xC6A9;&#xC790; &#xC785;&#xB825;&#xD56D;&#xBAA9;&#xC740; &#xCE74;&#xB4DC;&#xC0AC;&#xC6A9;&#xC790;&#xAC00; &#xCD08;&#xAE30; &#xC138;&#xD305;&#xB429;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%281%29.gif)
 
 {% hint style="info" %}
 "사용자"입력항목 초기 세팅 규칙
