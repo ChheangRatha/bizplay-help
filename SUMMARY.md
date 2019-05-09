@@ -1,6 +1,7 @@
 # Table of contents
 
 * [지식창고가 무엇인가요?](README.md)
+* [환경설정](undefined.md)
 * [서비스 정책](service-rule/README.md)
   * [서비스 Matrix](service-rule/service-matrix.md)
   * [가격정책](service-rule/price/README.md)
