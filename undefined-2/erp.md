@@ -26,46 +26,51 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
 
   - bizplay 사용법 입니다.
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
      ① "환경설정"앱을 클릭 합니다.
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
      ② "입력항목설정"을 클릭 합니다.  
      ③ "용도"를 클릭하여 설정 합니다.
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
     ④ "세부설정"을 클릭 합니다.  
     ⑤ "ERP 연계를 위한 정보를 설정합니다." 클릭 합니다.  
         - 용도ERP코드, 상대계정코, 계정과목 설정을 합니다.
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
    ⑥ "영수증"을 클릭 합니다.
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
   ⑦ 좌측 상단에 "설정"을 클릭 합니다.
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
    ⑧ "엑셀 다운로드 양식 설정" 을 합니다.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
    ⑨ " 관리자" 아래 원하는 메뉴를 클릭하여 사용내역을 조회 합니다.  
    ⑩ "저장" 버튼을 클릭 하여 ⑪" EXCEL저장" 버튼을 클릭합니다.
 
- - 더존 Smart A 사용법 입니다.
-
 ![](../.gitbook/assets/image%20%281%29.png)
+
+                                 `{그림} EXCEL 양식`
+
+- 더존 Smart A 사용법 입니다.
+
+![](../.gitbook/assets/image%20%282%29.png)
 
   ① "매입매출전표입력" 탭으로 이동 합니다.  
   ② "기능모음\(f11\)" 클릭 합니다.  
-  ③ "엑셀올리기" 클릭 합니다  
-  
+  ③ "엑셀올리기" 클릭 합니다.  
+`※ EXCEL양식에 "거래처명" 정보는 더존 Smart A에 등록된 내역만 정상적으로 업로드 됩니다.`
+
  - FAQ  
   ① Smart A 엑셀 업로드 파일에 포함된 거래처\(가맹점\) 정보 문의 ?  
     답변 : Smart A에 등록된 거래처\(가맹점\)만 정상적으로 업로드 됩니다.  
@@ -73,7 +78,6 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
     답변 : 입력항목설정에서 용도ERP코드를 입력해야 합니다.  
               bizplay 사용법 ③ ~ ⑤ 참조 하시면 됩니다.
 
-  
    1.2 더존 iCUBE\(자동전표\)   
    1.3 더존 ICUBE\(간소화\)   
    1.4 더존 iU   
@@ -86,14 +90,14 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
 4. 자체 양식
 
 \[설정 및 다운로드 방법\]  
-{이미지1}
+{이미지1} 
 {% endtab %}
 
 {% tab title="에이전트" %}
 \[개요\]  
  - ERP사에서 생성한 Temp 테이블에 bizplay에서 제공하는 경비관리 데이터를 저장합니다.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
                                                                       `{그림1} 에이전트 방식`  
   
@@ -109,7 +113,7 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
  - bizplay는 OPEN API 로 연결 되어 아래와 같은 Out-Bound 방화벽 설정이 필요 합니다.  
   \(In-bound 없음\)
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
                                   `{그림2] 방화벽 설정`  
   
@@ -125,7 +129,7 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
 \[에이전트 설치 사양\]  
  - H/W, O/S 설치 사양 입니다.
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
                                 `{그림3} H/W, O/S 사양`
 
@@ -142,7 +146,7 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
 \[개요\]  
 - bizplay에서 제공하는 API를 통해 ERP사에서 개발을 진행 합니다.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
                                                                               `{그림1} API방식`  
   
@@ -156,7 +160,7 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
  - bizplay는 OPEN API 로 연결 되어 아래와 같은 Out-Bound 방화벽 설정이 필요 합니다.  
   \(In-bound 없음\)
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2812%29.png)
 
                                   `{그림2] 방화벽 설정`
 
@@ -169,7 +173,7 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
 \[API 실습\]  
  - GET방식으로 외부 사이트를 이용하여 실습을 합니다.
 
-![](../.gitbook/assets/image%20%2833%29.png)
+![](../.gitbook/assets/image%20%2834%29.png)
 
                                 `{그림3} API URL`
 
