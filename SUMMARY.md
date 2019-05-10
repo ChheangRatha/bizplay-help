@@ -27,6 +27,6 @@
   * [기타](faq/etc.md)
 * [기타](undefined-2/README.md)
   * [카드사 제휴](undefined-2/card.md)
-  * [ERP연계\(ing\)](undefined-2/erp.md)
+  * [ERP연계](undefined-2/erp.md)
   * [용어집\(ing\)](undefined-2/doc.md)
 
