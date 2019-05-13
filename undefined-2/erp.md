@@ -142,12 +142,6 @@ description: bizplay와 ERP사의 연계를 지원합니다.
   ① 설치된 경로에서 Coocon\_Config.exe 를 실행합니다.  
   ② "환경설정" 탭에서 "디비접속정보" "찾기"를 클릭합니다.  
   ③ 데이터 연결 속성 팝업창에서 연결할 데이터를 선택합니다.
-
-  
-\[파일첨부\]  
- - API 키 발급 신청서  
- - 쿠콘 상품 이용 신청서  
- - 에이전트\_연계방법 안내 설명
 {% endtab %}
 
 {% tab title="API" %}
@@ -190,12 +184,7 @@ description: bizplay와 ERP사의 연계를 지원합니다.
      ② 서비스 코드 목록을  ‘카드영수증 처리내역 조회\(0411\) 선택 쿼리전송 &gt; 팝업\(확인\)&gt; 잠시 대기   
          &gt; 결과 보임  
      ③ 결과 확인 [http://](http://jsonviewer.stack.hu/)[jsonviewer.stack.hu/](http://jsonviewer.stack.hu/) 에 접속  ②번 결과 전체 복사  
-     ④ 결과 확인 페이지에  붙여넣기&gt; Format tab으로 이동   
-  
-{첨부파일}  
- - API 정의서  
- - API 연동방법 안내 설명서  
- - API 키 발급 신청서  
+     ④ 결과 확인 페이지에  붙여넣기&gt; Format tab으로 이동 
 {% endtab %}
 
 {% tab title="HUB" %}
