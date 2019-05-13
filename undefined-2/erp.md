@@ -25,34 +25,34 @@ description: bizplay와 ERP사의 연계를 지원합니다.
   
   ▶ bizplay 엑셀 다운로드 양식 설정 방법입니다.
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
      ① "환경설정"앱을 클릭 합니다.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
      ② "입력항목설정"을 클릭 합니다.  
      ③ "용도"를 클릭하여 설정 합니다.
 
-![](../.gitbook/assets/image%20%2839%29.png)
+![](../.gitbook/assets/image%20%2845%29.png)
 
     ④ "세부설정"을 클릭 합니다.  
     ⑤ "ERP 연계를 위한 정보를 설정합니다." 클릭 합니다.  
         - 용도ERP코드, 상대계정코, 계정과목 설정을 합니다.
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2829%29.png)
 
    ⑥ "영수증"을 클릭 합니다.
 
-![](../.gitbook/assets/image%20%2830%29.png)
+![](../.gitbook/assets/image%20%2833%29.png)
 
   ⑦ 좌측 상단에 "설정"을 클릭 합니다.
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2837%29.png)
 
    ⑧ ERP사에 맞추어  "엑셀 다운로드 양식 설정" 을 합니다.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
    ⑨ " 관리자" 에서 원하는 메뉴를 클릭하여 사용내역을 조회 합니다.  
    ⑩ "저장" 버튼을 클릭 하여 ⑪" EXCEL저장" 버튼을 클릭하여 문서를 저장 합니다.
@@ -63,7 +63,7 @@ description: bizplay와 ERP사의 연계를 지원합니다.
 
   ▶ 더존 Smart A 엑셀 올리기 사용법입니다.
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
   ① "매입매출전표입력" 탭으로 이동 합니다.  
   ② "기능모음\(f11\)" 클릭 합니다.  
@@ -83,7 +83,7 @@ description: bizplay와 ERP사의 연계를 지원합니다.
 \[개요\]  
  - ERP사에서 생성한 Temp 테이블에 bizplay에서 제공하는 경비관리 데이터를 저장합니다.
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2830%29.png)
 
                                                                       `{그림1} 에이전트 방식`  
   
@@ -99,7 +99,7 @@ description: bizplay와 ERP사의 연계를 지원합니다.
  - bizplay는 OPEN API 로 연결 되어 아래와 같은 Out-Bound 방화벽 설정이 필요 합니다.  
   \(In-bound 없음\)
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
                                   `{그림2] 방화벽 설정`  
   
@@ -126,7 +126,7 @@ description: bizplay와 ERP사의 연계를 지원합니다.
 \[에이전트 사용법\]  
  - 에이전트\(쿠콘박스2.0\) 설치 방법입니다.
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
   ① CooconBox2.0법인카드.exe 설치 파일을 실행 후 다음을 클릭합니다.  
   ② 설치경로 를 선택 후 다음을 클릭합니다.  
@@ -135,20 +135,40 @@ description: bizplay와 ERP사의 연계를 지원합니다.
   ⑤ 프로그램을 설치를 시작합니다.  
   ⑥ CooconBox 설치가 완료 되었습니다.  
   
-- 에이전트 설정 방법입니다.
+- 에이전트 "환경설정" 방법입니다.
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 
   ① 설치된 경로에서 Coocon\_Config.exe 를 실행합니다.  
   ② "환경설정" 탭에서 "디비접속정보" "찾기"를 클릭합니다.  
   ③ 데이터 연결 속성 팝업창에서 연결할 데이터를 선택합니다.
+
+![](../.gitbook/assets/image%20%2840%29.png)
+
+ ④ 1. 서버 이름을 선택하거나 입력을 합니다.  
+      2. 서버에 로그온할 때 사용할 정보를 입력합니다.  
+        - "암호 정장 사용\(s\)" 체크  
+      3. 서버에서 데이터베이스를 선택합니다.   
+      "연결테스트\(T\)" 클릭 합니다.  
+ ⑤ 연결 테스트 확인합니다.  
+ ⑥ "테이블 생성"에서 언어 선택 후 "생성"을 클릭합니다.   
+      "저장"을 클릭 합니다.   
+  
+- 에이전트 "서비스 인증요청" 방법입니다.
+
+![](../.gitbook/assets/image%20%2812%29.png)
+
+  ① 기관코드, 사업자 번호, 사업장 명, 서비스 명, 담당자 명, 담당자 연락처, 담당자 이메일, 운영IP  
+      입력 후 "조회"를 클릭 합니다. \(고객사 담당자 명 입력\)  
+  ② "출력"부분에 결과코드, 결과메세지, API KEY 출력되면 정상 여부 확인 후 "저장"을 클릭합니다.  
+  ③ "찾기" 클릭하면 "사업장 조회" 팝업창이 뜨며 저장한 정보를 확인 할 수 있습니다.
 {% endtab %}
 
 {% tab title="API" %}
 \[개요\]  
 - bizplay에서 제공하는 API를 통해 ERP사에서 개발을 진행 합니다.
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
                                                                               `{그림1} API방식`  
   
@@ -162,7 +182,7 @@ description: bizplay와 ERP사의 연계를 지원합니다.
  - bizplay는 OPEN API 로 연결 되어 아래와 같은 Out-Bound 방화벽 설정이 필요 합니다.  
   \(In-bound 없음\)
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
                                   `{그림2] 방화벽 설정`
 
@@ -175,7 +195,7 @@ description: bizplay와 ERP사의 연계를 지원합니다.
 \[API 실습\]  
  - GET방식으로 외부 사이트를 이용하여 실습을 합니다.
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2849%29.png)
 
                                 `{그림3} API URL`
 
@@ -191,7 +211,7 @@ description: bizplay와 ERP사의 연계를 지원합니다.
 \[HUB 설치 사양\]  
  - H/W, O/S 설치 사양 입니다.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2822%29.png)
 {% endtab %}
 
 {% tab title="기타" %}
@@ -217,7 +237,9 @@ description: bizplay와 ERP사의 연계를 지원합니다.
 
 {% file src="../.gitbook/assets/\_-\_api-\_-\_v1-3.xlsx" %}
 
-{% file src="../.gitbook/assets/2.0\_-\_-\_v2.11.xls" %}
-
 {% file src="../.gitbook/assets/\_ \(2\).pdf" %}
+
+{% file src="../.gitbook/assets/\_v1.0.0.2.pdf" %}
+
+{% file src="../.gitbook/assets/\_v2.11.xls" %}
 
