@@ -1,5 +1,5 @@
 ---
-description: 비즈플레와 ERP사의 연계를 지원합니다
+description: bizplay와 ERP사의 연계를 지원합니다.
 ---
 
 # ERP연계
@@ -25,45 +25,45 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
   
   ▶ bizplay 엑셀 다운로드 양식 설정 방법입니다.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
      ① "환경설정"앱을 클릭 합니다.
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
      ② "입력항목설정"을 클릭 합니다.  
      ③ "용도"를 클릭하여 설정 합니다.
 
-![](../.gitbook/assets/image%20%2831%29.png)
+![](../.gitbook/assets/image%20%2835%29.png)
 
     ④ "세부설정"을 클릭 합니다.  
     ⑤ "ERP 연계를 위한 정보를 설정합니다." 클릭 합니다.  
         - 용도ERP코드, 상대계정코, 계정과목 설정을 합니다.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2823%29.png)
 
    ⑥ "영수증"을 클릭 합니다.
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
   ⑦ 좌측 상단에 "설정"을 클릭 합니다.
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
    ⑧ ERP사에 맞추어  "엑셀 다운로드 양식 설정" 을 합니다.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
    ⑨ " 관리자" 에서 원하는 메뉴를 클릭하여 사용내역을 조회 합니다.  
    ⑩ "저장" 버튼을 클릭 하여 ⑪" EXCEL저장" 버튼을 클릭하여 문서를 저장 합니다.
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
                                  `{그림} EXCEL 양식`
 
   ▶ 더존 Smart A 엑셀 올리기 사용법입니다.
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
   ① "매입매출전표입력" 탭으로 이동 합니다.  
   ② "기능모음\(f11\)" 클릭 합니다.  
@@ -83,7 +83,7 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
 \[개요\]  
  - ERP사에서 생성한 Temp 테이블에 bizplay에서 제공하는 경비관리 데이터를 저장합니다.
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
                                                                       `{그림1} 에이전트 방식`  
   
@@ -99,7 +99,7 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
  - bizplay는 OPEN API 로 연결 되어 아래와 같은 Out-Bound 방화벽 설정이 필요 합니다.  
   \(In-bound 없음\)
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
                                   `{그림2] 방화벽 설정`  
   
@@ -115,7 +115,7 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
 \[에이전트 설치 사양\]  
  - H/W, O/S 설치 사양 입니다.
 
-![](../.gitbook/assets/image%20%2821%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
                                 `{그림3} H/W, O/S 사양`
 
@@ -132,7 +132,7 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
 \[개요\]  
 - bizplay에서 제공하는 API를 통해 ERP사에서 개발을 진행 합니다.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
                                                                               `{그림1} API방식`  
   
@@ -146,7 +146,7 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
  - bizplay는 OPEN API 로 연결 되어 아래와 같은 Out-Bound 방화벽 설정이 필요 합니다.  
   \(In-bound 없음\)
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
                                   `{그림2] 방화벽 설정`
 
@@ -159,11 +159,16 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
 \[API 실습\]  
  - GET방식으로 외부 사이트를 이용하여 실습을 합니다.
 
-![](../.gitbook/assets/image%20%2834%29.png)
+![](../.gitbook/assets/image%20%2838%29.png)
 
                                 `{그림3} API URL`
 
-  
+▶ 개발 전문을 테스트 페이지에서 확인 합니다.  
+     ①  [http://](http://webankdev.appplay.co.kr/api_test.jsp)[webankdev.appplay.co.kr/api\_test.jsp](http://webankdev.appplay.co.kr/api_test.jsp) 온라인에서 열고   
+     ② 서비스 코드 목록을  ‘카드영수증 처리내역 조회\(0411\) 선택 쿼리전송 &gt; 팝업\(확인\)&gt; 잠시 대기   
+         &gt; 결과 보임  
+     ③ 결과 확인 [http://](http://jsonviewer.stack.hu/)[jsonviewer.stack.hu/](http://jsonviewer.stack.hu/) 에 접속  ②번 결과 전체 복사  
+     ④ 결과 확인 페이지에  붙여넣기&gt; Format tab으로 이동   
   
 {첨부파일}  
  - API 정의서  
@@ -172,31 +177,36 @@ description: 비즈플레와 ERP사의 연계를 지원합니다
 {% endtab %}
 
 {% tab title="HUB" %}
+\[HUB 설치 사양\]  
+ - H/W, O/S 설치 사양 입니다.
 
+![](../.gitbook/assets/image%20%2818%29.png)
 {% endtab %}
 
 {% tab title="기타" %}
-\[문의사항\]  
-문의 : BCAs 데이와 일치하지 않는점 문의  
-답변 :  
+\[ERP연계 비교\]
+
+![](../.gitbook/assets/image%20%283%29.png)
 {% endtab %}
 {% endtabs %}
 
-{% file src="../.gitbook/assets/api-\_v1.0.docx" %}
+{% file src="../.gitbook/assets/\_ \(4\).pdf" %}
 
-{% file src="../.gitbook/assets/undefined.docx" %}
+{% file src="../.gitbook/assets/\_api-\_v1.0.pdf" %}
 
-{% file src="../.gitbook/assets/bizplay\_-\_v1.04.pptx" %}
+{% file src="../.gitbook/assets/\_ \(6\).pdf" %}
 
-{% file src="../.gitbook/assets/02-api\_v3.01\_r34\_20190424.docx" %}
+{% file src="../.gitbook/assets/erp-\_v1.05.pdf" %}
 
-{% file src="../.gitbook/assets/2.0\_-\_-\_v2.10.xls" %}
+{% file src="../.gitbook/assets/api-\_v3.01\_r35\_20190503.pdf" %}
+
+{% file src="../.gitbook/assets/erp\_bizplay-2-\_v.0.3.pdf" %}
+
+{% file src="../.gitbook/assets/erp\_bizplay-3-\_v.0.3 \(1\).pdf" %}
 
 {% file src="../.gitbook/assets/\_-\_api-\_-\_v1-3.xlsx" %}
 
-{% file src="../.gitbook/assets/bizplay-2-\_v.0.3.pdf" %}
+{% file src="../.gitbook/assets/2.0\_-\_-\_v2.11.xls" %}
 
-{% file src="../.gitbook/assets/bizplay-3-\_v.0.3.pdf" %}
-
-{% file src="../.gitbook/assets/\_.pptx" %}
+{% file src="../.gitbook/assets/\_ \(2\).pdf" %}
 
