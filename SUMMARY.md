@@ -29,6 +29,7 @@
   * [연계방식 안내](erp/undefined/README.md)
     * [엑셀](erp/undefined/untitled.md)
     * [에이전트](erp/undefined/undefined.md)
+    * [OPEN API](erp/undefined/open-api.md)
     * [HUB](erp/undefined/hub.md)
   * [API안내](erp/api/README.md)
     * [경비지출관리](erp/api/undefined.md)
