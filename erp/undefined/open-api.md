@@ -2,7 +2,7 @@
 
  - bizplay에서 제공하는 API를 통해 ERP사에서 개발을 진행 합니다.
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
                                                                              `{그림1} API방식`
 
@@ -16,7 +16,7 @@
  - bizplay는 OPEN API 로 연결 되어 아래와 같은 Out-Bound 방화벽 설정이 필요 합니다.  
   \(In-bound 없음\)
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
                                                                          `{그림2} 방화벽 설정`
 
@@ -28,7 +28,7 @@
 \[API 실습\]   
  - GET방식으로 외부 사이트를 이용하여 실습을 합니다.
 
-![](../../.gitbook/assets/image%20%2861%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
                                                                             `{그림3} API URL`
 
