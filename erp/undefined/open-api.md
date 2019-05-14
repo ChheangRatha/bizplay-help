@@ -2,7 +2,7 @@
 
  - bizplay에서 제공하는 API를 통해 ERP사에서 개발을 진행 합니다.
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
                                                                              `{그림1} API방식`
 
@@ -16,7 +16,7 @@
  - bizplay는 OPEN API 로 연결 되어 아래와 같은 Out-Bound 방화벽 설정이 필요 합니다.  
   \(In-bound 없음\)
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
                                                                          `{그림2} 방화벽 설정`
 
@@ -28,14 +28,33 @@
 \[API 실습\]   
  - GET방식으로 외부 사이트를 이용하여 실습을 합니다.
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
                                                                             `{그림3} API URL`
 
  ▶ 개발 전문을 테스트 페이지에서 확인 합니다.  
-   ① [http://webankdev.appplay.co.kr/api\_test.jsp](http://webankdev.appplay.co.kr/api_test.jsp) 온라인에서 열고  
-   ② 서비스 코드 목록을 ‘카드영수증 처리내역 조회\(0411\) 선택 쿼리전송 &gt; 팝업\(확인\) &gt; 잠시 대기  
-       &gt; 결과 보임  
-   ③ 결과 확인 [http://jsonviewer.stack.hu/](http://jsonviewer.stack.hu/) 에 접속 ②번 결과 전체 복사  
-   ④ 결과 확인 페이지에 붙여넣기&gt; Format tab으로 이동
+   1. [http://webankdev.appplay.co.kr/api\_test.jsp](http://webankdev.appplay.co.kr/api_test.jsp) 열고
+
+![](../../.gitbook/assets/image%20%2824%29.png)
+
+                                                                       `{그림4} API TEST`
+
+   2. ①"서비스 코드 목록"에 "카드 영수증 처리 내역 조회\(0411\)" 선택하여 ②"쿼리전송"을 클릭 합니다.  
+       ③ JSON\_OUT 결과물이 나옵니다.  
+   3. 결과 확인 [http://jsonviewer.stack.hu/](http://jsonviewer.stack.hu/) 에 접속하여
+
+![](../../.gitbook/assets/image%20%2845%29.png)
+
+                                                                     `{그림5} JSON Viewer 화면`
+
+   4.  ③번 결과물을 ④"Text" 항목 선택 후 붙여넣기를 합니다.  
+        ⑤"Format" 탭을 클릭하면 결과물이 정렬됩니다.
+
+![](../../.gitbook/assets/image%20%2830%29.png)
+
+                                                                     `{그림6} JSON Viewer 화면`
+
+ 5.  ⑥"viewer" 탭을 클릭하면 정렬된 결과물을 확인 할 수 있습니다.
+
+
 
