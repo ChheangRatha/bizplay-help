@@ -3,7 +3,7 @@
 \[개요\]  
  - bizplay비밀번호 동기화 없이 랜덤 key를 2차 검증 하여 로그인 합니다.
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
                                                                       `{그림 1} 로그인 흐름도`    
 
