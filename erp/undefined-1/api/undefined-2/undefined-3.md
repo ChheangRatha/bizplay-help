@@ -1,6 +1,9 @@
 # \(주\)포렌
 
-![](../../../../.gitbook/assets/image%20%28105%29.png)
+ - ERP명 : uniLITE  
+ - ERP담당자 : 조광웅 이사
+
+![](../../../../.gitbook/assets/image%20%28109%29.png)
 
                                                                           `{그림 1} 구성도`
 
@@ -10,7 +13,7 @@
 
 ![](../../../../.gitbook/assets/image%20%289%29.png)
 
-                                                                        `{그림 2} uniLITE 화면`
+                                                                       `{그림 2} uniLITE 연계 화면`
 
    ① "법인카드내역 수신" 클릭하면 bizplay에서 카드영수증 데이터 수신합니다.  
    ② bizplay 수신된 데이터입니다.  
