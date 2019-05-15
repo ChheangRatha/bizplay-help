@@ -1,2 +1,2 @@
-# API연동
+# OPEN API
 
