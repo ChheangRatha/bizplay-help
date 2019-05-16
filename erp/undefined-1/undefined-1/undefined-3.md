@@ -5,7 +5,7 @@
  - ERP담당자 : 강은영 팀장  
  - 농업생명공학기
 
-![](../../../.gitbook/assets/image%20%28105%29.png)
+![](../../../.gitbook/assets/image%20%28110%29.png)
 
                                                                       `{그림 1} 구성도`
 
@@ -17,7 +17,7 @@
 
  - bizplay에서 데이터를 받아 자동전표 생성하는 화면입니다.
 
-![](../../../.gitbook/assets/image%20%2843%29.png)
+![](../../../.gitbook/assets/image%20%2846%29.png)
 
                                                                    `{그림 3} 증빙확인 화면`
 
