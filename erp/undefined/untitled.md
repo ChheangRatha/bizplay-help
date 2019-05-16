@@ -4,7 +4,7 @@
  - 고객사에서 원하는 ERP 문서 양식을 bizplay에서 EXCEL 문서로 저장하여 ERP시스템에 자료를  
   올리 수 있게 지원을 합니다.
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
                                                                           `{그림1} EXCLE 방식`  
   
@@ -19,45 +19,45 @@
 
  ▶ bizplay 엑셀 다운로드 양식 설정 방법입니다.
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2872%29.png)
 
    ① "환경설정"앱을 클릭 합니다.
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
    ② "입력항목설정"을 클릭 합니다.  
    ③ "용도"를 클릭하여 설정 합니다.
 
-![](../../.gitbook/assets/image%20%28172%29.png)
+![](../../.gitbook/assets/image%20%28179%29.png)
 
 ④ "세부설정"을 클릭 합니다.  
 ⑤ "ERP 연계를 위한 정보를 설정합니다." 클릭 합니다.  
     - 용도ERP코드, 상대계정코, 계정과목 설정을 합니다.
 
-![](../../.gitbook/assets/image%20%28109%29.png)
+![](../../.gitbook/assets/image%20%28114%29.png)
 
    ⑥ "영수증"을 클릭 합니다.
 
-![](../../.gitbook/assets/image%20%28122%29.png)
+![](../../.gitbook/assets/image%20%28127%29.png)
 
    ⑦ 좌측 상단에 "설정"을 클릭 합니다.
 
-![](../../.gitbook/assets/image%20%28135%29.png)
+![](../../.gitbook/assets/image%20%28141%29.png)
 
    ⑧ ERP사에 맞추어 "엑셀 다운로드 양식 설정" 을 합니다.
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
    ⑨ " 관리자" 에서 원하는 메뉴를 클릭하여 사용내역을 조회 합니다.  
    ⑩ "저장" 버튼을 클릭 하여 ⑪" EXCEL저장" 버튼을 클릭하여 문서를 저장 합니다.
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
                                                                          `{그림} EXCEL 양식`
 
  ``▶ 더존 Smart A 엑셀 올리기 사용법입니다.
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
    ① "매입매출전표입력" 탭으로 이동 합니다.  
    ② "기능모음\(f11\)" 클릭 합니다.  
