@@ -3,7 +3,7 @@
  - ERP명 : uniLITE  
  - ERP담당자 : 조광웅 이사
 
-![](../../../../.gitbook/assets/image%20%28119%29.png)
+![](../../../../.gitbook/assets/image%20%28148%29.png)
 
                                                                           `{그림 1} 구성도`
 
@@ -11,7 +11,7 @@
    ② bizplay 제공 데이터 중 “지출결의 완료” 건만 수신 될 수 있도록 진행  
    ③ 법인카드내역 수신으로 데이터 불러오기 후 자동전표 테이블로 전송
 
-![](../../../../.gitbook/assets/image%20%2810%29.png)
+![](../../../../.gitbook/assets/image%20%2815%29.png)
 
                                                                        `{그림 2} uniLITE 연계 화면`
 
