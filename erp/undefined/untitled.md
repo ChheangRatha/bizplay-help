@@ -19,34 +19,34 @@
 
  ▶ bizplay 엑셀 다운로드 양식 설정 방법입니다.
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
    ① "환경설정"앱을 클릭 합니다.
 
-![](../../.gitbook/assets/image%20%28106%29.png)
+![](../../.gitbook/assets/image%20%28107%29.png)
 
    ② "입력항목설정"을 클릭 합니다.  
    ③ "용도"를 클릭하여 설정 합니다.
 
-![](../../.gitbook/assets/image%20%28189%29.png)
+![](../../.gitbook/assets/image%20%28190%29.png)
 
 ④ "세부설정"을 클릭 합니다.  
 ⑤ "ERP 연계를 위한 정보를 설정합니다." 클릭 합니다.  
     - 용도ERP코드, 상대계정코, 계정과목 설정을 합니다.
 
-![](../../.gitbook/assets/image%20%28119%29.png)
+![](../../.gitbook/assets/image%20%28120%29.png)
 
    ⑥ "영수증"을 클릭 합니다.
 
-![](../../.gitbook/assets/image%20%28133%29.png)
+![](../../.gitbook/assets/image%20%28134%29.png)
 
    ⑦ 좌측 상단에 "설정"을 클릭 합니다.
 
-![](../../.gitbook/assets/image%20%28148%29.png)
+![](../../.gitbook/assets/image%20%28149%29.png)
 
    ⑧ ERP사에 맞추어 "엑셀 다운로드 양식 설정" 을 합니다.
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
    ⑨ " 관리자" 에서 원하는 메뉴를 클릭하여 사용내역을 조회 합니다.  
    ⑩ "저장" 버튼을 클릭 하여 ⑪" EXCEL저장" 버튼을 클릭하여 문서를 저장 합니다.
