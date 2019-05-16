@@ -7,7 +7,7 @@
 
 \[API 서비스 흐름도\]
 
-![](../../.gitbook/assets/image%20%28105%29.png)
+![](../../.gitbook/assets/image%20%28111%29.png)
 
                                                                   `{그림 1} API 서비스 흐름도`
 
@@ -18,7 +18,7 @@
 
 \[개발절차\]
 
-![](../../.gitbook/assets/image%20%2883%29.png)
+![](../../.gitbook/assets/image%20%2887%29.png)
 
                                                                           `{그림 2} 개발절차`
 

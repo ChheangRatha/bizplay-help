@@ -4,7 +4,7 @@
  - bizplay 클라우드와 고객사 시스템\(ERP  또는 그룹웨어\)에 실시간 전문 중계가 필요한 경우  
   고객사에 설치 운영하는 프리미엄 에이전트 모듈입니다.
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%28103%29.png)
 
                                                                                 `{그림1} 구성도` 
 
@@ -30,9 +30,9 @@
 
 \[방화벽 설정\]
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
                                                                       `{그림2} 방화벽 설정`                   
 
@@ -46,5 +46,5 @@
 \[HUB 설치 사양\]   
  - H/W, O/S 설치 사양 입니다.
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2866%29.png)
 

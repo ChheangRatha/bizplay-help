@@ -1,20 +1,25 @@
 # \(주\)온아이티시스템
 
  - ERP명 : Actas  
+ - DBMS : MS-SQL 2012  
  - ERP담당자 : 장기영 차장  
  - 보건정보 솔루션 공급업체
 
-![](../../../../.gitbook/assets/image%20%28117%29.png)
+![](../../../../.gitbook/assets/image%20%28125%29.png)
 
                                                                          `{그림 1} 구성도`
 
    ①  법인카드 사용내역을 받을 수 있도록 거래내역 및 카드내역불러오기 등 법인카드 데이터 ERP연계
 
-![](../../../../.gitbook/assets/image%20%28127%29.png)
+![](../../../../.gitbook/assets/image%20%28138%29.png)
 
- - Actas ERP의 법인카드 거래내역 화
+                                                                 `{그림 2} 거래내역 화면` 
 
-![](../../../../.gitbook/assets/image%20%2845%29.png)
+ - Actas ERP의 법인카드 거래내역 확인
+
+![](../../../../.gitbook/assets/image%20%2847%29.png)
+
+                                                             `{그림 3} 카드내역불러오기 화면`   
 
  - Actas ERP의 법인카드 카드내역불러오기 화면
 
