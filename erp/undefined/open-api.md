@@ -3,7 +3,7 @@
 \[개요\]  
  - bizplay에서 제공하는 API를 통해 ERP사에서 개발을 진행 합니다.
 
-![](../../.gitbook/assets/image%20%2867%29.png)
+![](../../.gitbook/assets/image%20%2870%29.png)
 
                                                                              `{그림1} API방식`
 
@@ -17,7 +17,7 @@
  - bizplay는 OPEN API 로 연결 되어 아래와 같은 Out-Bound 방화벽 설정이 필요 합니다.  
   \(In-bound 없음\)
 
-![](../../.gitbook/assets/image%20%2871%29.png)
+![](../../.gitbook/assets/image%20%2874%29.png)
 
                                                                          `{그림2} 방화벽 설정`
 
@@ -29,14 +29,14 @@
 \[API 실습\]   
  - GET방식으로 외부 사이트를 이용하여 실습을 합니다.
 
-![](../../.gitbook/assets/image%20%28177%29.png)
+![](../../.gitbook/assets/image%20%28183%29.png)
 
                                                                             `{그림3} API URL`
 
  ▶ 개발 전문을 테스트 페이지에서 확인 합니다.  
    1. [http://webankdev.appplay.co.kr/api\_test.jsp](http://webankdev.appplay.co.kr/api_test.jsp) 열고
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
                                                                        `{그림4} API TEST`
 
@@ -44,14 +44,14 @@
        ③ JSON\_OUT 결과물이 나옵니다.  
    3. 결과 확인 [http://jsonviewer.stack.hu/](http://jsonviewer.stack.hu/) 에 접속하여
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28102%29.png)
 
                                                                      `{그림5} JSON Viewer 화면`
 
    4.  ③번 결과물을 ④"Text" 항목 선택 후 붙여넣기를 합니다.  
         ⑤"Format" 탭을 클릭하면 결과물이 정렬됩니다.
 
-![](../../.gitbook/assets/image%20%2870%29.png)
+![](../../.gitbook/assets/image%20%2873%29.png)
 
                                                                      `{그림6} JSON Viewer 화면`
 
@@ -62,14 +62,14 @@
       URL인코딩\(base64\) : Protocol로 사용하는 http URL에는 의미를 가진 문자가 있음 해당문자를 URL에  
      명령어로 인식하지 못하도록 암호화 하는 방법
 
-![](../../.gitbook/assets/image%20%28112%29.png)
+![](../../.gitbook/assets/image%20%28115%29.png)
 
                                                                       `{그림7} API TEST`
 
    ``① "서비스코드 목록" 에서 "카드 영수증 처리 내역 조회 \(0411\) 선택합니다.  
           ② JSON\_IN 입력된 내역을 복사합니다. 
 
-![](../../.gitbook/assets/image%20%28141%29.png)
+![](../../.gitbook/assets/image%20%28145%29.png)
 
                                                                         `{그림8} URL 인코딩`
 
@@ -78,20 +78,20 @@
           ④ "URL 인코딩!"을 클릭합니다.  
           ⑤ "여기에 URL 인코딩 된 텍스트를 복사 : " 출력물 값을 복사합니다.
 
-![](../../.gitbook/assets/image%20%28147%29.png)
+![](../../.gitbook/assets/image%20%28151%29.png)
 
                                                                         `{그림9} 메모장`
 
         ⑥ 메모장안에 "http://webankdev.appplay.co.kr/geteway.do?JSONData=" 입력합니다.  
         ⑦에 ⑤결과물을 붙여 넣습니다.
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%2892%29.png)
 
                                                                        `{그림10} Chrome 주소란`              
 
         ⑧ "Chrome" 실행하여 주소란에 "{그림9} 메모장" 안에 있는 내용을 복사하여 붙여넣습니다.
 
-![](../../.gitbook/assets/image%20%28148%29.png)
+![](../../.gitbook/assets/image%20%28152%29.png)
 
                                                                    `{그림11} URL인코딩 실행 화면`
 
@@ -103,13 +103,42 @@
    -  전문 통신 특성상 응답을 무한정 길게 전송이 불가능하기 때문에 일정 건별로 페이징을 반복하여   
      전문을 호출합니다.   
 
-![](../../.gitbook/assets/image%20%28122%29.png)
+![](../../.gitbook/assets/image%20%28125%29.png)
 
                                 `{그림12} NEXT_KEY 적용 화면`
 
    ① 쿼리전송을 하여 JSON\_OUT 결과창에 "NEXT\_KEY" 값이 있는지 확인합니다.  
        "NEXT\_KEY" 값이 있으면 다음 페이지가 존재하기 때문에 다시 요청을 하여야 합니다.  
    ② JSON\_IN 창에 "NEXT\_KEY" :" 뒤에 ①JSON\_OUT 창에  나온 "NEXT\_KEY"을 입력 후 쿼리전송을 합니다.
+
+ ▶JOSN\_IN 쿼리 설명  
+     - JSON\_IN 쿼리는 "공통부", "입력부"로 나누어 집니다.
+
+![](../../.gitbook/assets/image%20%2815%29.png)
+
+                                                                `{그림 2} API 0910 조회`
+
+ - [http://webankdev.appplay.co.kr/api\_test.jsp](http://webankdev.appplay.co.kr/api_test.jsp) 접속하여  
+ - "서비스코드 목록"에서 "거래종류 코드 조회\(0910\)" 선택 후 "쿼리전송"을 클릭합니다.  
+  
+ - 쿼리문  
+ {① "API\_ID" : "0910",  
+  ② "API\_KEY" : "5a0d6070-1853-4e37-a4b0-fd11e5699296", "ORG\_CD" : "2148635102",   
+  ③ "REQ\_DATA" : {  
+  ④ "BIZ\_NO" : "2148635102",  
+  ⑤ "REQ\_CNT" : "",  
+  ⑥ "NEXT\_KEY" : "" } }
+
+ - 공통부 설명   
+ ① 서비스코드 "거래종류 코드\(0910\)" 조회ID 입니다.  
+ ② 발급받은 "인증키"를 입력합니다.  
+  
+ - 입력부 설명  
+ ③ 입력부 시작 구분값입니다.  
+ ④ 조회하고자 하는 고객사 "사업자번호"를 입력합니다.  
+ ⑤ 조회할  "요청건수"를 입력합니다.  
+ ⑥ "다음결과키" 한화면에 일정 건수만 표시되어 다음건수 조회시 "JSON\_OUT" 응답내용에   
+     "NEXT\_KEY" 입력합니다.
 
 
 
