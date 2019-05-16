@@ -3,7 +3,7 @@
  - ERP명 : uniLITE  
  - ERP담당자 : 조광웅 이사
 
-![](../../../../.gitbook/assets/image%20%28109%29.png)
+![](../../../../.gitbook/assets/image%20%28111%29.png)
 
                                                                           `{그림 1} 구성도`
 

@@ -4,7 +4,7 @@
  - 고객사 ERP에서 bizplay바로 가기를 클릭하여 새로운 로그인 정보 입력 없이 bizplay에 로그인하는 방법  
   입니다.
 
-![](../../.gitbook/assets/image%20%2877%29.png)
+![](../../.gitbook/assets/image%20%2879%29.png)
 
                                                                          `{그림} SSO 연동`
 
@@ -19,4 +19,8 @@
  ② ERP 로그인 후 내 정보 &gt; bizplay ID/PW 등록  
  ③ ERP내 bizplay 버튼 클릭  
  ④ bizplay 로그인 실행 \(새창\)
+
+{% file src="../../.gitbook/assets/2-\_-key-web-\_v.0.3.pdf" %}
+
+{% file src="../../.gitbook/assets/3-\_-key-cs-\_v.0.3.pdf" %}
 
