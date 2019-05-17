@@ -5,14 +5,14 @@
  - ERP담당자 : 심소영 과장  
  - 종합미디어 전문그룹
 
-![](../../../.gitbook/assets/image%20%28172%29.png)
+![](../../../.gitbook/assets/image%20%28183%29.png)
 
                                                                           `{그림 1} 구성도` 
 
  - 그룹웨어 메인 화면에서 bizplay 이미지 클릭 시 bizplay 자동 로그인  
  - bizplay 법인카드 데이터를 받아 자동전표 발행 개
 
-![](../../../.gitbook/assets/image%20%286%29.png)
+![](../../../.gitbook/assets/image%20%287%29.png)
 
                                                                      `{그림 2} SSO 자동 로그인`
 
