@@ -10,5 +10,3 @@
 
 {% file src="../.gitbook/assets/\_ \(6\).pdf" %}
 
-{% file src="../.gitbook/assets/\_-\_api-\_-\_v1-3 \(1\).xlsx" %}
-
