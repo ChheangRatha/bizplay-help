@@ -4,15 +4,15 @@
 
  - 기초코드 관리 목록입니다.
 
-![](../../.gitbook/assets/image%20%28155%29.png)
+![](../../.gitbook/assets/image%20%28157%29.png)
 
                                                                       `{그림1} 기초코드 관리` 
 
-![](../../.gitbook/assets/image%20%2897%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
                                                              `{그림2} 예산 항목 및 예산관리` 
 
-![](../../.gitbook/assets/image%20%28145%29.png)
+![](../../.gitbook/assets/image%20%28147%29.png)
 
                                                                           `{그림3} 부가설정`
 
@@ -20,7 +20,7 @@
 
   - 카드사 원본 데이터 중계 목록입니다.
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
                                                               `{그림4} 카드사 원본 데이터 중계` 
 
@@ -28,7 +28,7 @@
 
  - 카드&사용자 정보 조회 목록입니다.
 
-![](../../.gitbook/assets/image%20%2898%29.png)
+![](../../.gitbook/assets/image%20%28100%29.png)
 
                                                               `{그림5} 카드&사용자 정보 조회`
 
@@ -36,9 +36,9 @@
 
  - 카드거래내역, 영수증 처리 내역, 증빙이미지, 지출결의서 목록입니다.
 
-![](../../.gitbook/assets/image%20%28113%29.png)
+![](../../.gitbook/assets/image%20%28115%29.png)
 
-![](../../.gitbook/assets/image%20%28188%29.png)
+![](../../.gitbook/assets/image%20%28190%29.png)
 
                                 `{그림6} 카드거래내역, 영수증 처리 내역, 증빙이미지, 지출결의서`
 
@@ -46,11 +46,11 @@
 
  - 매입/청구/해외 사용 내역 목록입니다.
 
-![](../../.gitbook/assets/image%20%2889%29.png)
+![](../../.gitbook/assets/image%20%2891%29.png)
 
                                                             `{그림7} 매입/청구/해외 사용 내역`
 
-![](../../.gitbook/assets/image%20%28128%29.png)
+![](../../.gitbook/assets/image%20%28130%29.png)
 
                               `{그림8} ERP 등 시스템 연계관리`
 
@@ -58,7 +58,7 @@
 
  - 그린메시지 발송 관리 목록입니다.
 
-![](../../.gitbook/assets/image%20%28203%29.png)
+![](../../.gitbook/assets/image%20%28205%29.png)
 
                                                               `{그림9} 그린메시지 발송 관리`
 

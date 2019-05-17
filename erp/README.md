@@ -7,7 +7,7 @@ description: >-
 
 # ERP연계
 
-![](../.gitbook/assets/image%20%28125%29.png)
+![](../.gitbook/assets/image%20%28127%29.png)
 
 {% file src="../.gitbook/assets/erp-\_v1.05 \(2\).pdf" %}
 
