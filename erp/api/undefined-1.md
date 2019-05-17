@@ -16,5 +16,5 @@
 
                                                                  `{그림2} 매입자료 상세연동`
 
-\`\`
+{% file src="../../.gitbook/assets/\_api\_layout\_4.8.5.xls" %}
 

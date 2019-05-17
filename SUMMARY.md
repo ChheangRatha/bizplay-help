@@ -35,6 +35,7 @@
     * [경비지출관리](erp/api/undefined.md)
     * [인택스](erp/api/undefined-1.md)
     * [HUB](erp/api/hub.md)
+    * [직원/부서](erp/api/undefined-2.md)
   * [SSO](erp/sso/README.md)
     * [랜덤 key 검증\(Web\)](erp/sso/bizplay.md)
     * [랜덤 key 검증\(CS\)](erp/sso/key.md)
