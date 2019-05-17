@@ -4,7 +4,7 @@
 
  - 기초코드 관리 목록입니다.
 
-![](../../.gitbook/assets/image%20%28159%29.png)
+![](../../.gitbook/assets/image%20%28160%29.png)
 
                                                                       `{그림1} 기초코드 관리` 
 
@@ -12,7 +12,7 @@
 
                                                              `{그림2} 예산 항목 및 예산관리` 
 
-![](../../.gitbook/assets/image%20%28149%29.png)
+![](../../.gitbook/assets/image%20%28150%29.png)
 
                                                                           `{그림3} 부가설정`
 
@@ -36,9 +36,9 @@
 
  - 카드거래내역, 영수증 처리 내역, 증빙이미지, 지출결의서 목록입니다.
 
-![](../../.gitbook/assets/image%20%28117%29.png)
+![](../../.gitbook/assets/image%20%28118%29.png)
 
-![](../../.gitbook/assets/image%20%28192%29.png)
+![](../../.gitbook/assets/image%20%28193%29.png)
 
                                 `{그림6} 카드거래내역, 영수증 처리 내역, 증빙이미지, 지출결의서`
 
@@ -50,7 +50,7 @@
 
                                                             `{그림7} 매입/청구/해외 사용 내역`
 
-![](../../.gitbook/assets/image%20%28132%29.png)
+![](../../.gitbook/assets/image%20%28133%29.png)
 
                               `{그림8} ERP 등 시스템 연계관리`
 
@@ -58,7 +58,7 @@
 
  - 그린메시지 발송 관리 목록입니다.
 
-![](../../.gitbook/assets/image%20%28207%29.png)
+![](../../.gitbook/assets/image%20%28208%29.png)
 
                                                               `{그림9} 그린메시지 발송 관리`
 

@@ -5,7 +5,7 @@
  - ERP담당자 : 김영빈 차장  
  - ERP 솔루션 및 IT 컨설팅 전문 기업
 
-![](../../../.gitbook/assets/image%20%28218%29.png)
+![](../../../.gitbook/assets/image%20%28219%29.png)
 
                                                                           `{그림 1} 구성도`
 

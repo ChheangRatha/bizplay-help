@@ -5,7 +5,7 @@
  - ERP담당자 : 강은영 팀장  
  - 농업생명공학기
 
-![](../../../.gitbook/assets/image%20%28136%29.png)
+![](../../../.gitbook/assets/image%20%28137%29.png)
 
                                                                       `{그림 1} 구성도`
 

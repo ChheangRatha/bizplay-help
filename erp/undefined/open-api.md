@@ -29,7 +29,7 @@
 \[API 실습\]   
  - GET방식으로 외부 사이트를 이용하여 실습을 합니다.
 
-![](../../.gitbook/assets/image%20%28220%29.png)
+![](../../.gitbook/assets/image%20%28221%29.png)
 
                                                                             `{그림3} API URL`
 
@@ -44,7 +44,7 @@
        ③ JSON\_OUT 결과물이 나옵니다.  
    3. 결과 확인 [http://jsonviewer.stack.hu/](http://jsonviewer.stack.hu/) 에 접속하여
 
-![](../../.gitbook/assets/image%20%28124%29.png)
+![](../../.gitbook/assets/image%20%28125%29.png)
 
                                                                      `{그림5} JSON Viewer 화면`
 
@@ -62,14 +62,14 @@
       URL인코딩\(base64\) : Protocol로 사용하는 http URL에는 의미를 가진 문자가 있음 해당문자를 URL에  
      명령어로 인식하지 못하도록 암호화 하는 방법
 
-![](../../.gitbook/assets/image%20%28138%29.png)
+![](../../.gitbook/assets/image%20%28139%29.png)
 
                                                                       `{그림7} API TEST`
 
    ``① "서비스코드 목록" 에서 "카드 영수증 처리 내역 조회 \(0411\) 선택합니다.  
           ② JSON\_IN 입력된 내역을 복사합니다. 
 
-![](../../.gitbook/assets/image%20%28173%29.png)
+![](../../.gitbook/assets/image%20%28174%29.png)
 
                                                                         `{그림8} URL 인코딩`
 
@@ -78,7 +78,7 @@
           ④ "URL 인코딩!"을 클릭합니다.  
           ⑤ "여기에 URL 인코딩 된 텍스트를 복사 : " 출력물 값을 복사합니다.
 
-![](../../.gitbook/assets/image%20%28180%29.png)
+![](../../.gitbook/assets/image%20%28181%29.png)
 
                                                                         `{그림9} 메모장`
 
@@ -91,7 +91,7 @@
 
         ⑧ "Chrome" 실행하여 주소란에 "{그림9} 메모장" 안에 있는 내용을 복사하여 붙여넣습니다.
 
-![](../../.gitbook/assets/image%20%28182%29.png)
+![](../../.gitbook/assets/image%20%28183%29.png)
 
                                                                    `{그림11} URL인코딩 실행 화면`
 
@@ -103,7 +103,7 @@
    -  전문 통신 특성상 응답을 무한정 길게 전송이 불가능하기 때문에 일정 건별로 페이징을 반복하여   
      전문을 호출합니다.   
 
-![](../../.gitbook/assets/image%20%28150%29.png)
+![](../../.gitbook/assets/image%20%28151%29.png)
 
                                 `{그림12} NEXT_KEY 적용 화면`
 

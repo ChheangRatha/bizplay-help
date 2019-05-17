@@ -12,13 +12,13 @@
    ① bizplay 법인카드 데이터를 받아 Mine ERP 데이터 연계  
    ② 증빙자료 내역관리 등 데이터 인터페이스 구현
 
-![](../../../.gitbook/assets/image%20%28169%29.png)
+![](../../../.gitbook/assets/image%20%28170%29.png)
 
                                                                  `{그림 2} 증빙자료 내역관리 화면`
 
    - 관리자 &gt; 연동자료 &gt; 증빙자료 내역관리 화면입니다.
 
-![](../../../.gitbook/assets/image%20%28161%29.png)
+![](../../../.gitbook/assets/image%20%28162%29.png)
 
                                                              `{그림 3} 법인카드 증빙내역 화면`
 

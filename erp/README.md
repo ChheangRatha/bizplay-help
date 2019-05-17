@@ -7,7 +7,14 @@ description: >-
 
 # ERP연계
 
-![](../.gitbook/assets/image%20%28129%29.png)
+![](../.gitbook/assets/image%20%28130%29.png)
+
+       `※ 주요기능  
+  - 영수증 기반 전표 연계   
+  - 지출결의서 기반 전표 연계  
+  - 사용자 및 부서 등 인사 정보 연계  
+  - 실시간 예산 연계  
+  - SAP 등 내부 정보 시스템 연계`
 
 {% file src="../.gitbook/assets/erp-\_v1.05 \(2\).pdf" %}
 
