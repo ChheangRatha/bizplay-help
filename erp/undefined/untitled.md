@@ -8,8 +8,8 @@
 
                                                                           `{그림1} EXCLE 방식`  
   
-   ``① bizplay에서 엑셀 다운로드 양식을 설정 하고 조회된 자료를 EXCEL문서로 저장을 합니다.  
-         ② 내 PC에 저장된 EXCEL 문서를 ERP에서 제공하는 기능을 이용하여 자료를 upload 합니다.
+   ① bizplay에서 엑셀 다운로드 양식을 설정 하고 조회된 자료를 EXCEL문서로 저장을 합니다.  
+   ② 내 PC에 저장된 EXCEL 문서를 ERP에서 제공하는 기능을 이용하여 자료를 upload 합니다.
 
           `※ ERP사에 UPLOAD 제공 여부를 확인하여 주세요.  
  ※ 표준 엑셀 다운로드 양식에 원하는 문서가 없으시면 요청하여 주세요.`
@@ -19,34 +19,34 @@
 
  ▶ bizplay 엑셀 다운로드 양식 설정 방법입니다.
 
-![](../../.gitbook/assets/image%20%2883%29.png)
+![](../../.gitbook/assets/image%20%2884%29.png)
 
    ① "환경설정"앱을 클릭 합니다.
 
-![](../../.gitbook/assets/image%20%28119%29.png)
+![](../../.gitbook/assets/image%20%28120%29.png)
 
    ② "입력항목설정"을 클릭 합니다.  
    ③ "용도"를 클릭하여 설정 합니다.
 
-![](../../.gitbook/assets/image%20%28207%29.png)
+![](../../.gitbook/assets/image%20%28209%29.png)
 
 ④ "세부설정"을 클릭 합니다.  
 ⑤ "ERP 연계를 위한 정보를 설정합니다." 클릭 합니다.  
     - 용도ERP코드, 상대계정코, 계정과목 설정을 합니다.
 
-![](../../.gitbook/assets/image%20%28132%29.png)
+![](../../.gitbook/assets/image%20%28133%29.png)
 
    ⑥ "영수증"을 클릭 합니다.
 
-![](../../.gitbook/assets/image%20%28147%29.png)
+![](../../.gitbook/assets/image%20%28148%29.png)
 
    ⑦ 좌측 상단에 "설정"을 클릭 합니다.
 
-![](../../.gitbook/assets/image%20%28164%29.png)
+![](../../.gitbook/assets/image%20%28165%29.png)
 
    ⑧ ERP사에 맞추어 "엑셀 다운로드 양식 설정" 을 합니다.
 
-![](../../.gitbook/assets/image%20%2859%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
    ⑨ " 관리자" 에서 원하는 메뉴를 클릭하여 사용내역을 조회 합니다.  
    ⑩ "저장" 버튼을 클릭 하여 ⑪" EXCEL저장" 버튼을 클릭하여 문서를 저장 합니다.
