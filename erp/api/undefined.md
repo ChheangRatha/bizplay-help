@@ -4,15 +4,15 @@
 
  - 기초코드 관리 목록입니다.
 
-![](../../.gitbook/assets/image%20%28161%29.png)
+![](../../.gitbook/assets/image%20%28166%29.png)
 
                                                                       `{그림1} 기초코드 관리` 
 
-![](../../.gitbook/assets/image%20%28101%29.png)
+![](../../.gitbook/assets/image%20%28105%29.png)
 
                                                              `{그림2} 예산 항목 및 예산관리` 
 
-![](../../.gitbook/assets/image%20%28151%29.png)
+![](../../.gitbook/assets/image%20%28156%29.png)
 
                                                                           `{그림3} 부가설정`
 
@@ -20,7 +20,7 @@
 
   - 카드사 원본 데이터 중계 목록입니다.
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
                                                               `{그림4} 카드사 원본 데이터 중계` 
 
@@ -28,7 +28,7 @@
 
  - 카드&사용자 정보 조회 목록입니다.
 
-![](../../.gitbook/assets/image%20%28102%29.png)
+![](../../.gitbook/assets/image%20%28106%29.png)
 
                                                               `{그림5} 카드&사용자 정보 조회`
 
@@ -36,9 +36,9 @@
 
  - 카드거래내역, 영수증 처리 내역, 증빙이미지, 지출결의서 목록입니다.
 
-![](../../.gitbook/assets/image%20%28119%29.png)
+![](../../.gitbook/assets/image%20%28123%29.png)
 
-![](../../.gitbook/assets/image%20%28195%29.png)
+![](../../.gitbook/assets/image%20%28200%29.png)
 
                                 `{그림6} 카드거래내역, 영수증 처리 내역, 증빙이미지, 지출결의서`
 
@@ -46,11 +46,11 @@
 
  - 매입/청구/해외 사용 내역 목록입니다.
 
-![](../../.gitbook/assets/image%20%2893%29.png)
+![](../../.gitbook/assets/image%20%2897%29.png)
 
                                                             `{그림7} 매입/청구/해외 사용 내역`
 
-![](../../.gitbook/assets/image%20%28134%29.png)
+![](../../.gitbook/assets/image%20%28138%29.png)
 
                               `{그림8} ERP 등 시스템 연계관리`
 
@@ -58,7 +58,7 @@
 
  - 그린메시지 발송 관리 목록입니다.
 
-![](../../.gitbook/assets/image%20%28210%29.png)
+![](../../.gitbook/assets/image%20%28217%29.png)
 
                                                               `{그림9} 그린메시지 발송 관리`
 
@@ -66,7 +66,7 @@
 
  - 서비스 인증 및 API KEY 발급 목록입니다.
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
                                                             `{그림10} 서비스 인증 및 API KEY 발급`
 

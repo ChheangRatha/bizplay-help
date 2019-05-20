@@ -5,19 +5,19 @@
  - ERP담당자 : 신은수 차장  
  - CRM 업체
 
-![](../../../../.gitbook/assets/image%20%2814%29.png)
+![](../../../../.gitbook/assets/image%20%2815%29.png)
 
                                                                        `{그림 1} 구성도` 
 
  - 비플 법인카드 데이터를 받아 카드매입내역조회, 카드목록조회 데이터 ERP연계
 
-![](../../../../.gitbook/assets/image%20%28170%29.png)
+![](../../../../.gitbook/assets/image%20%28175%29.png)
 
                                                           `{그림 2} 카드매입내역조회 화면` 
 
  - "Sales &gt; 경비관리 &gt; 카드매입내역조회"에서 조회한 화면입니다.
 
-![](../../../../.gitbook/assets/image%20%2863%29.png)
+![](../../../../.gitbook/assets/image%20%2864%29.png)
 
                                                            `{그림 3} 카드목록조회 화면` 
 

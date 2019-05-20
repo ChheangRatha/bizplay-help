@@ -7,7 +7,7 @@ description: >-
 
 # ERP연계
 
-![](../.gitbook/assets/image%20%2859%29.png)
+![](../.gitbook/assets/image%20%2860%29.png)
 
        `※ 주요기능  
   - 영수증 기반 전표 연계   

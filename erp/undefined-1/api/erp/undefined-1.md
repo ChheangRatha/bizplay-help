@@ -4,26 +4,26 @@
  - ERP명 : iU  
  - ERP담당자 : 조흥래 매니저
 
-![](../../../../.gitbook/assets/image%20%28143%29.png)
+![](../../../../.gitbook/assets/image%20%28148%29.png)
 
                                                                           `{그림 1} 구성도`
 
  - ㈜엔투비 자체적으로 영업회계시스템 구축  
  - bizplay 제공 데이터를 가지고 더존 i U 자동전표 테이블로 전송
 
-![](../../../../.gitbook/assets/image%20%28155%29.png)
+![](../../../../.gitbook/assets/image%20%28160%29.png)
 
                                                                     `{그림 2} 카드지출승인 화면`
 
  - bizplay 카드지출승인 화면입니다.
 
-![](../../../../.gitbook/assets/image%20%2848%29.png)
+![](../../../../.gitbook/assets/image%20%2849%29.png)
 
                                                             `{그림 3} 영업회계시스템 화면`
 
  - 영업회계시스템 법인카드관리 화면입니다.
 
-![](../../../../.gitbook/assets/image%20%28175%29.png)
+![](../../../../.gitbook/assets/image%20%28180%29.png)
 
                                                        `{그림 4} 더존ERPiU 자동전표 화면`
 

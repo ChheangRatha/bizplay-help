@@ -3,7 +3,7 @@
 \[개요\]  
  - ERP사에서 생성한 Temp 테이블에 bizplay에서 제공하는 경비관리 데이터를 저장합니다.
 
-![{&#xADF8;&#xB9BC;1} &#xC5D0;&#xC774;&#xC804;&#xD2B8; &#xAD6C;&#xC131;&#xB3C4;](../../.gitbook/assets/image%20%28135%29.png)
+![{&#xADF8;&#xB9BC;1} &#xC5D0;&#xC774;&#xC804;&#xD2B8; &#xAD6C;&#xC131;&#xB3C4;](../../.gitbook/assets/image%20%28139%29.png)
 
    ① ERP시스템에 설치한 연계 Agent데몬이 설정한 시간에 작업을 시작 합니다.  
    ② bizplay OPEN API 호출 하여 응답 받습니다.  
@@ -19,7 +19,7 @@
  - bizplay는 OPEN API 로 연결 되어 아래와 같은 Out-Bound 방화벽 설정이 필요 합니다.  
   \(In-bound 없음\)
 
-![](../../.gitbook/assets/image%20%2891%29.png)
+![](../../.gitbook/assets/image%20%2895%29.png)
 
                                                                         `{그림2} 방화벽 설정`
 
@@ -35,7 +35,7 @@
 \[에이전트 설치 사양\]  
  - H/W, O/S 설치 사양 입니다.
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
                                                                            `{그림3} H/W, O/S 사양`
 
@@ -45,7 +45,7 @@
 \[에이전트 사용법\]  
  **- 에이전트\(쿠콘박스2.0\) 설치 방법입니다.**
 
-![](../../.gitbook/assets/image%20%28208%29.png)
+![](../../.gitbook/assets/image%20%28214%29.png)
 
                                                                                `{그림4} 에이전트 설치`
 
@@ -58,7 +58,7 @@
 
  **- 에이전트 "환경설정" 방법입니다.**
 
-![](../../.gitbook/assets/image%20%28129%29.png)
+![](../../.gitbook/assets/image%20%28133%29.png)
 
                                                                             `{그림5} 환경설정`
 
@@ -66,7 +66,7 @@
    ② "환경설정" 탭에서 "디비접속정보" "찾기"를 클릭합니다.  
    ③ 데이터 연결 속성 팝업창에서 연결할 데이터를 선택합니다.
 
-![](../../.gitbook/assets/image%20%28182%29.png)
+![](../../.gitbook/assets/image%20%28187%29.png)
 
                                                                          `{그림6} DB 연결`
 
@@ -79,13 +79,13 @@
    ⑥ "테이블 생성"에서 언어 선택 후 "생성"을 클릭합니다.  
         - "저장"을 클릭 합니다. 
 
-![](../../.gitbook/assets/image%20%28128%29.png)
+![](../../.gitbook/assets/image%20%28132%29.png)
 
                                                                          `{그림7} 테이블 생성`
 
  **- 에이전트 "서비스 인증요청" 방법입니다.**
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
                                                                            `{그림8} 서비스 인증요청`
 
@@ -96,7 +96,7 @@
 
  **- 에이전트 "업무설정" 방법입니다.**
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
                                                                             `{그림9} 업무설정`                  
 
@@ -108,7 +108,7 @@
   - 에이전트 설치된 폴더 "Conf.ini" 파일안에 "#그린메세지 interval : 분단위" 설정을 합니다.  
   - 테이블 "MSG_LNK_LIS" 데이터를 넣어 메세지 전송을 합니다.`
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2819%29.png)
 
                                                                                `{그림10} 수기조회`
 
@@ -118,7 +118,7 @@
 
  **- 에이전트 "스케줄설정" 방법입니다.**
 
-![](../../.gitbook/assets/image%20%2899%29.png)
+![](../../.gitbook/assets/image%20%28103%29.png)
 
                                                                              `{그림11} 스케줄설정`                   
 
@@ -133,7 +133,7 @@
 
  **- 에이전트 "서비스 관리" 방법입니다.**
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![](../../.gitbook/assets/image%20%28112%29.png)
 
                                                                         `{그림12} 서비스 관리`   
 
@@ -147,7 +147,7 @@
 
  **- 에이전트 "DB쿼리" 방법입니다.**
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2886%29.png)
 
                                                                             `{그림13} DB쿼리 관리`                
 
