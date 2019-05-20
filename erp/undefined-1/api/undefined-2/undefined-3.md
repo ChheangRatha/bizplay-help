@@ -3,17 +3,13 @@
  - ERP명 : uniLITE  
  - ERP담당자 : 조광웅 이사
 
-![](../../../../.gitbook/assets/image%20%28199%29.png)
-
-                                                                          `{그림 1} 구성도`
+![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../../../.gitbook/assets/image%20%28199%29.png)
 
    ① ㈜포렌의 유니라이트 ERP에 “법인카드내역 수신＂테이블 구축  
    ② bizplay 제공 데이터 중 “지출결의 완료” 건만 수신 될 수 있도록 진행  
    ③ 법인카드내역 수신으로 데이터 불러오기 후 자동전표 테이블로 전송
 
-![](../../../../.gitbook/assets/image%20%2821%29.png)
-
-                                                                       `{그림 2} uniLITE 연계 화면`
+![\[&#xADF8;&#xB9BC;2\] uniLITE &#xC5F0;&#xACC4; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%2821%29.png)
 
    ① "법인카드내역 수신" 클릭하면 bizplay에서 카드영수증 데이터 수신합니다.  
    ② bizplay 수신된 데이터입니다.  

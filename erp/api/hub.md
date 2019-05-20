@@ -4,9 +4,7 @@
 
  - 경비처리, 인택스 가예산 등록/취소 목록입니다.
 
-![](../../.gitbook/assets/image%20%2859%29.png)
-
-                                                          `{그림1} 경비처리, 인택스 가예산 등록/취소`
+![\[&#xADF8;&#xB9BC;1\] &#xACBD;&#xBE44;&#xCC98;&#xB9AC;, &#xC778;&#xD0DD;&#xC2A4; &#xAC00;&#xC608;&#xC0B0; &#xB4F1;&#xB85D;/&#xCDE8;&#xC18C;](../../.gitbook/assets/image%20%2859%29.png)
 
 {% file src="../../.gitbook/assets/hub\_-\_v2\_r21\_20190508\_.xlsx" %}
 

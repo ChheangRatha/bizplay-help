@@ -4,9 +4,7 @@
  - bizplay 클라우드와 고객사 시스템\(ERP  또는 그룹웨어\)에 실시간 전문 중계가 필요한 경우  
   고객사에 설치 운영하는 프리미엄 에이전트 모듈입니다.
 
-![](../../.gitbook/assets/image%20%28172%29.png)
-
-                                                                                `{그림1} 구성도` 
+![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../.gitbook/assets/image%20%28172%29.png)
 
  - 고객사가 설치 서버를 제공 하여야 합니다.   
  - OS 및 JDK 7 설치가 필요 합니다.  
@@ -32,9 +30,7 @@
 
 ![](../../.gitbook/assets/image%20%2841%29.png)
 
-![](../../.gitbook/assets/image%20%2823%29.png)
-
-                                                                      `{그림2} 방화벽 설정`                   
+![\[&#xADF8;&#xB9BC;2\] &#xBC29;&#xD654;&#xBCBD; &#xC124;&#xC815;](../../.gitbook/assets/image%20%2823%29.png)
 
    ① 비즈플레이는 목동 KT IDC센터에 금융 클라우드 센터로 운영 합니다.  
    ② 도착지 호출은 URL 방식으로 내부 서버에서 DNS를 찾을 수 없으면 HOSTS파일에 등록해야 합니다.  
@@ -46,5 +42,5 @@
 \[HUB 설치 사양\]   
  - H/W, O/S 설치 사양 입니다.
 
-![](../../.gitbook/assets/image%20%28108%29.png)
+![\[&#xADF8;&#xB9BC;3\] H/W, O/S &#xC124;&#xCE58; &#xC0AC;&#xC591;](../../.gitbook/assets/image%20%28108%29.png)
 

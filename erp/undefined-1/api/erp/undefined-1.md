@@ -4,28 +4,20 @@
  - ERP명 : iU  
  - ERP담당자 : 조흥래 매니저
 
-![](../../../../.gitbook/assets/image%20%28148%29.png)
-
-                                                                          `{그림 1} 구성도`
+![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../../../.gitbook/assets/image%20%28148%29.png)
 
  - ㈜엔투비 자체적으로 영업회계시스템 구축  
  - bizplay 제공 데이터를 가지고 더존 i U 자동전표 테이블로 전송
 
-![](../../../../.gitbook/assets/image%20%28160%29.png)
-
-                                                                    `{그림 2} 카드지출승인 화면`
+![\[&#xADF8;&#xB9BC;2\] &#xCE74;&#xB4DC;&#xC9C0;&#xCD9C;&#xC2B9;&#xC778; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28160%29.png)
 
  - bizplay 카드지출승인 화면입니다.
 
-![](../../../../.gitbook/assets/image%20%2849%29.png)
-
-                                                            `{그림 3} 영업회계시스템 화면`
+![\[&#xADF8;&#xB9BC;3\] &#xC601;&#xC5C5;&#xD68C;&#xACC4;&#xC2DC;&#xC2A4;&#xD15C; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%2849%29.png)
 
  - 영업회계시스템 법인카드관리 화면입니다.
 
-![](../../../../.gitbook/assets/image%20%28180%29.png)
-
-                                                       `{그림 4} 더존ERPiU 자동전표 화면`
+![\[&#xADF8;&#xB9BC;4\] &#xB354;&#xC874;ERP-iU &#xC790;&#xB3D9;&#xC804;&#xD45C; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28180%29.png)
 
  - 더존ERP iU 자동전표체크리스트 화면입니다.
 
