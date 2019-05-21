@@ -131,5 +131,5 @@
    ② 조회된 DB쿼리문을 수정합니다.  
    ③ "수정"버튼을 클릭합니다.
 
-{% file src="../../.gitbook/assets/\_v1.0.0.2 \(1\).pdf" %}
+{% file src="../../.gitbook/assets/2.0-\_v1.3.pdf" %}
 
