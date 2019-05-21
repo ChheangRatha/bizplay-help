@@ -4,7 +4,7 @@
  - bizplay 클라우드와 고객사 시스템\(ERP  또는 그룹웨어\)에 실시간 전문 중계가 필요한 경우  
   고객사에 설치 운영하는 프리미엄 에이전트 모듈입니다.
 
-![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../.gitbook/assets/image%20%28172%29.png)
+![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../.gitbook/assets/image%20%28177%29.png)
 
  - 고객사가 설치 서버를 제공 하여야 합니다.   
  - OS 및 JDK 7 설치가 필요 합니다.  
@@ -42,5 +42,5 @@
 \[HUB 설치 사양\]   
  - H/W, O/S 설치 사양 입니다.
 
-![\[&#xADF8;&#xB9BC;3\] H/W, O/S &#xC124;&#xCE58; &#xC0AC;&#xC591;](../../.gitbook/assets/image%20%28108%29.png)
+![\[&#xADF8;&#xB9BC;3\] H/W, O/S &#xC124;&#xCE58; &#xC0AC;&#xC591;](../../.gitbook/assets/image%20%28110%29.png)
 
