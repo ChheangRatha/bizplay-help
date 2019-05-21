@@ -10,15 +10,15 @@
  - bizplay 법인카드 데이터를 받아 자체 ERP시스템\(easyKRED\) 데이터 연계  
  - 사용자 별 카드 목록, 영수증 목록, 사용자 별 경비처리, 인쇄 Report 등 구현
 
-![\[&#xADF8;&#xB9BC;2\] &#xC0AC;&#xC6A9;&#xC790;&#xBCC4; &#xCE74;&#xB4DC;&#xBAA9;&#xB85D; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28138%29.png)
+![\[&#xADF8;&#xB9BC;2\] &#xC0AC;&#xC6A9;&#xC790;&#xBCC4; &#xCE74;&#xB4DC;&#xBAA9;&#xB85D; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28141%29.png)
 
  - 사용자별 카드목록 화면입니다.
 
-![\[&#xADF8;&#xB9BC;3\] &#xC601;&#xC218;&#xC99D; &#xBAA9;&#xB85D; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28221%29.png)
+![\[&#xADF8;&#xB9BC;3\] &#xC601;&#xC218;&#xC99D; &#xBAA9;&#xB85D; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28224%29.png)
 
  - 영수증 목록 전체 화면입니다.
 
-![\[&#xADF8;&#xB9BC;4\] &#xC0AC;&#xC6A9;&#xC790;&#xBCC4; &#xACBD;&#xBE44;&#xCC98;&#xB9AC; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28129%29.png)
+![\[&#xADF8;&#xB9BC;4\] &#xC0AC;&#xC6A9;&#xC790;&#xBCC4; &#xACBD;&#xBE44;&#xCC98;&#xB9AC; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28131%29.png)
 
  - 사용자별 경비처리 화면입니다.
 

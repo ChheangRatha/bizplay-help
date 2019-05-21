@@ -5,7 +5,7 @@
  - ERP담당자 : 강은영 팀장  
  - 농업생명공학기
 
-![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../../.gitbook/assets/image%20%28151%29.png)
+![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../../.gitbook/assets/image%20%28154%29.png)
 
  - bizplay 법인카드 데이터를 받아 자동전표, 증빙확인\(bizplay 카드지출결의 화면 제공\)
 
@@ -13,7 +13,7 @@
 
  - bizplay에서 데이터를 받아 자동전표 생성하는 화면입니다.
 
-![\[&#xADF8;&#xB9BC;3\] &#xC99D;&#xBE59;&#xD655;&#xC778; &#xD654;&#xBA74;](../../../.gitbook/assets/image%20%2868%29.png)
+![\[&#xADF8;&#xB9BC;3\] &#xC99D;&#xBE59;&#xD655;&#xC778; &#xD654;&#xBA74;](../../../.gitbook/assets/image%20%2870%29.png)
 
  - "증빙확인" 클릭시 bizplay 카드지출결의 화면이 제공됩니다.
 

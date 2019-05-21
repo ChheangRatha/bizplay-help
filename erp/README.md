@@ -2,7 +2,7 @@
 
  - 어떤 ERP를 사용하시더라도 단기간에 연계가 가능합니다.
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
    ※ 주요기능  
       ① 영수증 기반 전표 연계   
