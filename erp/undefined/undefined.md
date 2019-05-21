@@ -3,7 +3,7 @@
 \[개요\]  
  - ERP사에서 생성한 Temp 테이블에 bizplay에서 제공하는 경비관리 데이터를 저장합니다.
 
-![{&#xADF8;&#xB9BC;1} &#xC5D0;&#xC774;&#xC804;&#xD2B8; &#xAD6C;&#xC131;&#xB3C4;](../../.gitbook/assets/image%20%28145%29.png)
+![{&#xADF8;&#xB9BC;1} &#xC5D0;&#xC774;&#xC804;&#xD2B8; &#xAD6C;&#xC131;&#xB3C4;](../../.gitbook/assets/image%20%28148%29.png)
 
    ① ERP시스템에 설치한 연계 Agent데몬이 설정한 시간에 작업을 시작 합니다.  
    ② bizplay OPEN API 호출 하여 응답 받습니다.  
@@ -19,7 +19,7 @@
  - bizplay는 OPEN API 로 연결 되어 아래와 같은 Out-Bound 방화벽 설정이 필요 합니다.  
   \(In-bound 없음\)
 
-![\[&#xADF8;&#xB9BC;2\] &#xBC29;&#xD654;&#xBCBD; &#xC124;&#xC815;](../../.gitbook/assets/image%20%2899%29.png)
+![\[&#xADF8;&#xB9BC;2\] &#xBC29;&#xD654;&#xBCBD; &#xC124;&#xC815;](../../.gitbook/assets/image%20%28102%29.png)
 
    ① bizplay는 목동 KT IDC센터에 금융 클라우드 센터로 운영 합니다.  
    ② 도착지 호출은 URL 방식으로 내부 서버에서 DNS를 찾을 수 없으면 HOSTS파일에 등록해야  
@@ -41,7 +41,7 @@
 \[에이전트 사용법\]  
  **- 에이전트\(쿠콘박스2.0\) 설치 방법입니다.**
 
-![\[&#xADF8;&#xB9BC;4\] &#xC5D0;&#xC774;&#xC804;&#xD2B8; &#xC124;&#xCE58;](../../.gitbook/assets/image%20%28224%29.png)
+![\[&#xADF8;&#xB9BC;4\] &#xC5D0;&#xC774;&#xC804;&#xD2B8; &#xC124;&#xCE58;](../../.gitbook/assets/image%20%28229%29.png)
 
    ① CooconBox2.0법인카드.exe 설치 파일을 실행 후 다음을 클릭합니다.  
    ② 설치경로 를 선택 후 다음을 클릭합니다.  
@@ -52,13 +52,13 @@
 
  **- 에이전트 "환경설정" 방법입니다.**
 
-![\[&#xADF8;&#xB9BC;5\] &#xD658;&#xACBD;&#xC124;&#xC815;](../../.gitbook/assets/image%20%28139%29.png)
+![\[&#xADF8;&#xB9BC;5\] &#xD658;&#xACBD;&#xC124;&#xC815;](../../.gitbook/assets/image%20%28142%29.png)
 
    ① 설치된 경로에서 Coocon\_Config.exe 를 실행합니다.  
    ② "환경설정" 탭에서 "디비접속정보" "찾기"를 클릭합니다.  
    ③ 데이터 연결 속성 팝업창에서 연결할 데이터를 선택합니다.
 
-![\[&#xADF8;&#xB9BC;6\] DB &#xC5F0;&#xACB0;](../../.gitbook/assets/image%20%28195%29.png)
+![\[&#xADF8;&#xB9BC;6\] DB &#xC5F0;&#xACB0;](../../.gitbook/assets/image%20%28200%29.png)
 
    ④ 1. 서버 이름을 선택하거나 입력을 합니다.  
         2. 서버에 로그온할 때 사용할 정보를 입력합니다.  
@@ -69,11 +69,11 @@
    ⑥ "테이블 생성"에서 언어 선택 후 "생성"을 클릭합니다.  
         - "저장"을 클릭 합니다. 
 
-![\[&#xADF8;&#xB9BC;7\] &#xD14C;&#xC774;&#xBE14; &#xC0DD;&#xC131;](../../.gitbook/assets/image%20%28138%29.png)
+![\[&#xADF8;&#xB9BC;7\] &#xD14C;&#xC774;&#xBE14; &#xC0DD;&#xC131;](../../.gitbook/assets/image%20%28141%29.png)
 
  **- 에이전트 "서비스 인증요청" 방법입니다.**
 
-![\[&#xADF8;&#xB9BC;8\] &#xC11C;&#xBE44;&#xC2A4; &#xC778;&#xC99D;&#xC694;&#xCCAD;](../../.gitbook/assets/image%20%2857%29.png)
+![\[&#xADF8;&#xB9BC;8\] &#xC11C;&#xBE44;&#xC2A4; &#xC778;&#xC99D;&#xC694;&#xCCAD;](../../.gitbook/assets/image%20%2858%29.png)
 
    ① 기관코드, 사업자 번호, 사업장 명, 서비스 명, 담당자 명, 담당자 연락처, 담당자 이메일, 운영IP   
        입력 후   "조회"를 클릭 합니다. \(고객사 담당자 명 입력\)  
@@ -82,7 +82,7 @@
 
  **- 에이전트 "업무설정" 방법입니다.**
 
-![\[&#xADF8;&#xB9BC;9\] &#xC5C5;&#xBB34;&#xC124;&#xC815;](../../.gitbook/assets/image%20%2858%29.png)
+![\[&#xADF8;&#xB9BC;9\] &#xC5C5;&#xBB34;&#xC124;&#xC815;](../../.gitbook/assets/image%20%2859%29.png)
 
    ① 탭 "카드"  bizplay 데이터전송을 설정하는 화면입니다.  
    ② 탭 "원본카드" 카드사 원본 데이터전송을 설정하는 화면입니다.   
@@ -100,7 +100,7 @@
 
  **- 에이전트 "스케줄설정" 방법입니다.**
 
-![\[&#xADF8;&#xB9BC;11\] &#xC2A4;&#xCF00;&#xC904; &#xC124;&#xC815;](../../.gitbook/assets/image%20%28108%29.png)
+![\[&#xADF8;&#xB9BC;11\] &#xC2A4;&#xCF00;&#xC904; &#xC124;&#xC815;](../../.gitbook/assets/image%20%28111%29.png)
 
    ① "카드" 탭을 클릭합니다. \(고객사 사용 서비스 선택\)  
    ② "카드목록조회" "월~일"요일까지 선택가능하고 선택시간에 1번 자동으로 조회합니다.  
@@ -113,7 +113,7 @@
 
  **- 에이전트 "서비스 관리" 방법입니다.**
 
-![\[&#xADF8;&#xB9BC;12\] &#xC11C;&#xBE44;&#xC2A4; &#xAD00;&#xB9AC;](../../.gitbook/assets/image%20%28117%29.png)
+![\[&#xADF8;&#xB9BC;12\] &#xC11C;&#xBE44;&#xC2A4; &#xAD00;&#xB9AC;](../../.gitbook/assets/image%20%28120%29.png)
 
    ① "서비스 등록"에서 "등록"버튼을 클릭 합니다.  
          - COOCON\_BOX2.exe 서비스에 등록을 시킴  
@@ -125,7 +125,7 @@
 
  **- 에이전트 "DB쿼리" 방법입니다.**
 
-![\[&#xADF8;&#xB9BC;13\] DB&#xCFFC;&#xB9AC; &#xAD00;&#xB9AC;](../../.gitbook/assets/image%20%2890%29.png)
+![\[&#xADF8;&#xB9BC;13\] DB&#xCFFC;&#xB9AC; &#xAD00;&#xB9AC;](../../.gitbook/assets/image%20%2892%29.png)
 
    ① 리스트박스 클릭 후 목록을 선택합니다.  
    ② 조회된 DB쿼리문을 수정합니다.  

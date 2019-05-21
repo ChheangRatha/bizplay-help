@@ -1,6 +1,6 @@
 # API안내
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../../.gitbook/assets/image%20%2880%29.png)
 
  **카드사에서 제공한 거래내역과 사용자가 입력한 경비 처리 내역을 조회합니다.**
 
@@ -19,7 +19,7 @@
 
 \*\*\*\*
 
-![](../../.gitbook/assets/image%20%2886%29.png)
+![](../../.gitbook/assets/image%20%2888%29.png)
 
  **국세청 홈택스의 매입세금계산서 실시간조회 및 지출결의서 작성 정보를 조회합니다.**
 
@@ -36,7 +36,7 @@
 
 
 
-![](../../.gitbook/assets/image%20%28218%29.png)
+![](../../.gitbook/assets/image%20%28223%29.png)
 
  **bizplay에 등록된 직원/부서 정보를 조회합니다.**
 
