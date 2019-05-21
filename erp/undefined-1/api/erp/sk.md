@@ -11,7 +11,7 @@
 
  - bizplay 법인카드 데이터를 받아 카드영수증전표발
 
-![\[&#xADF8;&#xB9BC;2\] &#xCE74;&#xB4DC;&#xBC88;&#xD638; &#xBD88;&#xB7EC;&#xC624;&#xAE30; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28216%29.png)
+![\[&#xADF8;&#xB9BC;2\] &#xCE74;&#xB4DC;&#xBC88;&#xD638; &#xBD88;&#xB7EC;&#xC624;&#xAE30; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28217%29.png)
 
  - "카드영수증전표발행 &gt; 카드영수증전표발행" 메뉴에서 카드번호 불러오는 화면입니다.
 

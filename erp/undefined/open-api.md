@@ -25,7 +25,7 @@
 \[API 실습\]   
  - GET방식으로 외부 사이트를 이용하여 실습을 합니다.
 
-![\[&#xADF8;&#xB9BC;3\] API URL](../../.gitbook/assets/image%20%28235%29.png)
+![\[&#xADF8;&#xB9BC;3\] API URL](../../.gitbook/assets/image%20%28236%29.png)
 
  ▶ 개발 전문을 테스트 페이지에서 확인 합니다.  
    1. [http://webankdev.appplay.co.kr/api\_test.jsp](http://webankdev.appplay.co.kr/api_test.jsp) 열고

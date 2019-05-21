@@ -42,7 +42,7 @@
 
  - 그린메시지 발송 관리 목록입니다.
 
-![\[&#xADF8;&#xB9BC;9\] &#xADF8;&#xB9B0;&#xBA54;&#xC2DC;&#xC9C0; &#xBC1C;&#xC1A1; &#xAD00;&#xB9AC;](../../.gitbook/assets/image%20%28222%29.png)
+![\[&#xADF8;&#xB9BC;9\] &#xADF8;&#xB9B0;&#xBA54;&#xC2DC;&#xC9C0; &#xBC1C;&#xC1A1; &#xAD00;&#xB9AC;](../../.gitbook/assets/image%20%28223%29.png)
 
  \[서비스 인증 및 API KEY 발급\]
 

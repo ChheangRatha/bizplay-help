@@ -9,11 +9,11 @@
 
  - 법인카드 사용내역을 받을 수 있도록 카드목록 및 매입내역 등 법인카드 데이터 CRM연계
 
-![\[&#xADF8;&#xB9BC;2\] &#xCE74;&#xB4DC;&#xBAA9;&#xB85D; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28218%29.png)
+![\[&#xADF8;&#xB9BC;2\] &#xCE74;&#xB4DC;&#xBAA9;&#xB85D; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28219%29.png)
 
  - 카드목록을 보는 화면입니다.     
 
-![\[&#xADF8;&#xB9BC;3\] &#xCE74;&#xB4DC; &#xB9E4;&#xC785;&#xB0B4;&#xC5ED; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28228%29.png)
+![\[&#xADF8;&#xB9BC;3\] &#xCE74;&#xB4DC; &#xB9E4;&#xC785;&#xB0B4;&#xC5ED; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28229%29.png)
 
  - 카드매입내역을 보는 화면입니다.
 
