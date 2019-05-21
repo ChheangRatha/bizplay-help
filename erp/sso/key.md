@@ -3,7 +3,7 @@
 \[개요\]  
  - bizplay비밀번호 동기화 없이 랜덤 key를 2차 검증 하여 로그인 합니다.
 
-![\[&#xADF8;&#xB9BC;1\] &#xB85C;&#xADF8;&#xC778; &#xD750;&#xB984;&#xB3C4;](../../.gitbook/assets/image%20%2859%29.png)
+![\[&#xADF8;&#xB9BC;1\] &#xB85C;&#xADF8;&#xC778; &#xD750;&#xB984;&#xB3C4;](../../.gitbook/assets/image%20%2862%29.png)
 
    ① 사용자 로그인용 랜덤키\(희발성 데이터\)를 생성하여 저장해 둔 뒤, 제휴 계약 시 발급받은   
       인증키 정보와 사용자 계정 정보\(제휴사, bizplay\), 랜덤 키 정보를 포함하여 bizplay 게이트   
