@@ -3,13 +3,13 @@
  - ERP명 : Salesforce  
  - ERP담당자 : 임유진 팀장
 
-![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../../../.gitbook/assets/image%20%2871%29.png)
+![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../../../.gitbook/assets/image%20%2875%29.png)
 
    ① 법인카드 사용내역 자동 등록 – 법인카드 등록에 따른 사용내역 자동 등록, 관리자가 현황 모니터링  
    ② 전자결재 – 정산기간 동안 사용한 모든 카드내역을 불러와 경비정산 결재 요청 및 승인 가능  
    ③ 모바일 – 세일즈포스 APP을 통해 사용내역조회, 경비정산 결재 요청 및 승인 가능
 
-![\[&#xADF8;&#xB9BC;2\] salesforce &#xC5F0;&#xACC4; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28102%29.png)
+![\[&#xADF8;&#xB9BC;2\] salesforce &#xC5F0;&#xACC4; &#xD654;&#xBA74;](../../../../.gitbook/assets/image%20%28106%29.png)
 
  -  법인카드 사용내역 Main 화면입니다.
 

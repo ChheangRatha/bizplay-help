@@ -5,12 +5,12 @@
  - ERP담당자 : 심소영 과장  
  - 종합미디어 전문그룹
 
-![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../../.gitbook/assets/image%20%28211%29.png)
+![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../../.gitbook/assets/image%20%28216%29.png)
 
  - 그룹웨어 메인 화면에서 bizplay 이미지 클릭 시 bizplay 자동 로그인  
  - bizplay 법인카드 데이터를 받아 자동전표 발행 개
 
-![\[&#xADF8;&#xB9BC;2\] SSO &#xC790;&#xB3D9; &#xB85C;&#xADF8;&#xC778;](../../../.gitbook/assets/image%20%288%29.png)
+![\[&#xADF8;&#xB9BC;2\] SSO &#xC790;&#xB3D9; &#xB85C;&#xADF8;&#xC778;](../../../.gitbook/assets/image%20%289%29.png)
 
  - 미디어윌 그룹웨어를 통하여 SSO 자동로그인하는 화면입니다.
 

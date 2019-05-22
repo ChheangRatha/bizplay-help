@@ -2,15 +2,15 @@
 
 **ㅇ 더존 Smart A** 
 
-![\[&#xADF8;&#xB9BC;1\] EXCEL &#xC800;&#xC7A5;](../../.gitbook/assets/image%20%28188%29.png)
+![\[&#xADF8;&#xB9BC;1\] EXCEL &#xC800;&#xC7A5;](../../.gitbook/assets/image%20%28193%29.png)
 
   ① "상세" 클릭 후 "EXCEL 저장" 버튼을 클릭합니다.
 
-![\[&#xADF8;&#xB9BC;2\] EXCEL &#xC591;&#xC2DD;](../../.gitbook/assets/image%20%2845%29.png)
+![\[&#xADF8;&#xB9BC;2\] EXCEL &#xC591;&#xC2DD;](../../.gitbook/assets/image%20%2849%29.png)
 
   ② bizplay에서 저장한 EXCEL양식 입니다.
 
-![\[&#xADF8;&#xB9BC;3\] &#xB354;&#xC874; Smart A](../../.gitbook/assets/image%20%2862%29.png)
+![\[&#xADF8;&#xB9BC;3\] &#xB354;&#xC874; Smart A](../../.gitbook/assets/image%20%2866%29.png)
 
    ③ "매입매출전표입력" 탭으로 이동 합니다.  
    ④ "기능모음\(f11\)" 클릭 합니다.  
