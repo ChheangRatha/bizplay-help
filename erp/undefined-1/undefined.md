@@ -1,5 +1,7 @@
 # Excel
 
+ - ERP명 : 더존 Smart A, 더존 iCUBE
+
 ![\[&#xADF8;&#xB9BC;1\] EXCEL &#xC800;&#xC7A5;](../../.gitbook/assets/image%20%28195%29.png)
 
   ① "상세" 클릭 후 "EXCEL 저장" 버튼을 클릭합니다.
