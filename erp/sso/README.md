@@ -4,7 +4,7 @@
  - 고객사 ERP에서 bizplay바로 가기를 클릭하여 새로운 로그인 정보 입력 없이 bizplay에 로그인하는 방법  
   입니다.
 
-![\[&#xADF8;&#xB9BC;1\] SSO &#xC5F0;&#xB3D9;](../../.gitbook/assets/image%20%28152%29.png)
+![\[&#xADF8;&#xB9BC;1\] SSO &#xC5F0;&#xB3D9;](../../.gitbook/assets/image%20%28153%29.png)
 
 - ERP 개발 사항  
  ① ERP내 사용자별 bizplay 계정 정보 저장  

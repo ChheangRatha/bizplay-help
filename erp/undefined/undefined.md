@@ -3,7 +3,7 @@
 \[개요\]  
  - ERP사에서 생성한 Temp 테이블에 bizplay에서 제공하는 경비관리 데이터를 저장합니다.
 
-![{&#xADF8;&#xB9BC;1} &#xC5D0;&#xC774;&#xC804;&#xD2B8; &#xAD6C;&#xC131;&#xB3C4;](../../.gitbook/assets/image%20%28155%29.png)
+![{&#xADF8;&#xB9BC;1} &#xC5D0;&#xC774;&#xC804;&#xD2B8; &#xAD6C;&#xC131;&#xB3C4;](../../.gitbook/assets/image%20%28156%29.png)
 
    ① ERP시스템에 설치한 연계 Agent데몬이 설정한 시간에 작업을 시작 합니다.  
    ② bizplay OPEN API 호출 하여 응답 받습니다.  
@@ -41,7 +41,7 @@
 \[에이전트 사용법\]  
  **- 에이전트\(쿠콘박스2.0\) 설치 방법입니다.**
 
-![\[&#xADF8;&#xB9BC;4\] &#xC5D0;&#xC774;&#xC804;&#xD2B8; &#xC124;&#xCE58;](../../.gitbook/assets/image%20%28237%29.png)
+![\[&#xADF8;&#xB9BC;4\] &#xC5D0;&#xC774;&#xC804;&#xD2B8; &#xC124;&#xCE58;](../../.gitbook/assets/image%20%28239%29.png)
 
    ① CooconBox2.0법인카드.exe 설치 파일을 실행 후 다음을 클릭합니다.  
    ② 설치경로 를 선택 후 다음을 클릭합니다.  
@@ -52,13 +52,13 @@
 
  **- 에이전트 "환경설정" 방법입니다.**
 
-![\[&#xADF8;&#xB9BC;5\] &#xD658;&#xACBD;&#xC124;&#xC815;](../../.gitbook/assets/image%20%28149%29.png)
+![\[&#xADF8;&#xB9BC;5\] &#xD658;&#xACBD;&#xC124;&#xC815;](../../.gitbook/assets/image%20%28150%29.png)
 
    ① 설치된 경로에서 Coocon\_Config.exe 를 실행합니다.  
    ② "환경설정" 탭에서 "디비접속정보" "찾기"를 클릭합니다.  
    ③ 데이터 연결 속성 팝업창에서 연결할 데이터를 선택합니다.
 
-![\[&#xADF8;&#xB9BC;6\] DB &#xC5F0;&#xACB0;](../../.gitbook/assets/image%20%28208%29.png)
+![\[&#xADF8;&#xB9BC;6\] DB &#xC5F0;&#xACB0;](../../.gitbook/assets/image%20%28210%29.png)
 
    ④ 1. 서버 이름을 선택하거나 입력을 합니다.  
         2. 서버에 로그온할 때 사용할 정보를 입력합니다.  
@@ -69,7 +69,7 @@
    ⑥ "테이블 생성"에서 언어 선택 후 "생성"을 클릭합니다.  
         - "저장"을 클릭 합니다. 
 
-![\[&#xADF8;&#xB9BC;7\] &#xD14C;&#xC774;&#xBE14; &#xC0DD;&#xC131;](../../.gitbook/assets/image%20%28148%29.png)
+![\[&#xADF8;&#xB9BC;7\] &#xD14C;&#xC774;&#xBE14; &#xC0DD;&#xC131;](../../.gitbook/assets/image%20%28149%29.png)
 
  **- 에이전트 "서비스 인증요청" 방법입니다.**
 
@@ -113,7 +113,7 @@
 
  **- 에이전트 "서비스 관리" 방법입니다.**
 
-![\[&#xADF8;&#xB9BC;12\] &#xC11C;&#xBE44;&#xC2A4; &#xAD00;&#xB9AC;](../../.gitbook/assets/image%20%28126%29.png)
+![\[&#xADF8;&#xB9BC;12\] &#xC11C;&#xBE44;&#xC2A4; &#xAD00;&#xB9AC;](../../.gitbook/assets/image%20%28127%29.png)
 
    ① "서비스 등록"에서 "등록"버튼을 클릭 합니다.  
          - COOCON\_BOX2.exe 서비스에 등록을 시킴  

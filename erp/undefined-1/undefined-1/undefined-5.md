@@ -9,7 +9,7 @@
 
  - bizplay 법인카드 데이터를 받아 자동전표 발행 개발
 
-![\[&#xADF8;&#xB9BC;2\] &#xBC95;&#xC778;&#xCE74;&#xB4DC;&#xC804;&#xD45C;&#xC790;&#xB3D9;&#xC0DD;&#xC131; &#xC2E4;&#xD589; &#xD654;&#xBA74;](../../../.gitbook/assets/image%20%28164%29.png)
+![\[&#xADF8;&#xB9BC;2\] &#xBC95;&#xC778;&#xCE74;&#xB4DC;&#xC804;&#xD45C;&#xC790;&#xB3D9;&#xC0DD;&#xC131; &#xC2E4;&#xD589; &#xD654;&#xBA74;](../../../.gitbook/assets/image%20%28165%29.png)
 
  - 전표일자 수기 입력 후 실행버튼을 클릭 합니다.
 
@@ -17,7 +17,7 @@
 
  - 생성된 전표 확인 후 "조회"버튼을 클릭합니다.
 
-![\[&#xADF8;&#xB9BC;4\] &#xC804;&#xD45C;&#xD655;&#xC778; &#xD654;&#xBA74;](../../../.gitbook/assets/image%20%28245%29.png)
+![\[&#xADF8;&#xB9BC;4\] &#xC804;&#xD45C;&#xD655;&#xC778; &#xD654;&#xBA74;](../../../.gitbook/assets/image%20%28248%29.png)
 
  - 생성된 전표를 확인 할 수 있습니다.
 
