@@ -17,7 +17,7 @@
 
  ■ 문의  
     - 염길선 부장 02-3779-7119 scarab@bizplay.co.kr  
-    - 김인창 수석 02-3779-7211 ickim@bizplay.co.k  
+    - 김인창 수석 02-3779-0606  ickim@bizplay.co.kr  
  
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
@@ -32,6 +32,6 @@
    
 **** ■ 문의  
     - 염길선 부장 02-3779-7119 scarab@bizplay.co.kr  
-    - 김인창 수석 02-3779-7211 ickim@bizplay.co.k  
+    - 김인창 수석 02-3779-0606 ickim@bizplay.co.kr  
       
 
