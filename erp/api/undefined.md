@@ -50,5 +50,5 @@
 
 ![\[&#xADF8;&#xB9BC;10\] &#xC11C;&#xBE44;&#xC2A4; &#xC778;&#xC99D; &#xBC0F; API KEY &#xBC1C;&#xAE09;](../../.gitbook/assets/image%20%288%29.png)
 
-{% file src="../../.gitbook/assets/02-api\_v3.01\_r43\_20190610.pdf" %}
+{% file src="../../.gitbook/assets/02-api\_v3.02\_r1\_20190722.pdf" %}
 
