@@ -18,7 +18,7 @@
  ③ ERP내 bizplay 버튼 클릭  
  ④ bizplay 로그인 실행 \(새창\)
 
-{% file src="../../.gitbook/assets/2-\_-key-web-\_v.0.3.pdf" %}
+{% file src="../../.gitbook/assets/bizplay-2-\_v.0.4.pdf" %}
 
-{% file src="../../.gitbook/assets/3-\_-key-cs-\_v.0.3.pdf" %}
+{% file src="../../.gitbook/assets/bizplay-3-\_v.0.4.pdf" %}
 
