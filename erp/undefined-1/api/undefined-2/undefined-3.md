@@ -3,7 +3,7 @@
  - ERP명 : uniLITE  
  - ERP담당자 : 조광웅 이사
 
-![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../../../.gitbook/assets/image%20%28222%29.png)
+![\[&#xADF8;&#xB9BC;1\] &#xAD6C;&#xC131;&#xB3C4;](../../../../.gitbook/assets/image%20%28223%29.png)
 
    ① ㈜포렌의 유니라이트 ERP에 “법인카드내역 수신＂테이블 구축  
    ② bizplay 제공 데이터 중 “지출결의 완료” 건만 수신 될 수 있도록 진행  
